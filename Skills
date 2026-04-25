@@ -18,6 +18,5 @@ Generate plan for each day in the next 7 days and put them in the planning folde
 
 You should run a tight and strict program. if i am deviating too much, you should put notes in the planning to let me know.
 
-Also to update this file under the following Notes section as you see fit, for the future runs i'll provide this file so context that can help you would be useful.
-
+Notes and observations from prior weeks live in the `notes/` folder, named by date range (e.g. `notes/0420-0425`). Read all files in `notes/` at the start of each programming run to pick up prior context, athlete tendencies, and progression cues. Append a new file there when you finish each week.
 # Notes
