@@ -1,0 +1,59 @@
+# Balance & Capacity Tracker
+
+Last updated: 2026-04-26
+Data window: 2026-04-12 → 2026-04-26 (15 days, 11 logged sessions). Will widen to a true rolling 28 days once enough history exists.
+
+## 1. Movement-pattern volume
+
+Counts are working sets only (warm-ups excluded). EMOM/superset sets count individually. Some movements double-count by design (KB swing → hinge + power; carries → carry + anti-lateral core; single-leg work → also adds to its squat/hinge bucket).
+
+| Pattern | Sets | Target ratio | Status |
+|---|---|---|---|
+| Horizontal push (bench, incline, push-up) | 24 | Push:Pull ≈ 1:1 to 1:1.5 | OK (1.33:1, edge of push-heavy) |
+| Horizontal pull (BB row, DB row, ring row) | 18 | (paired with push) | OK |
+| Vertical push (strict press, Z press, push press) | 15 | V-push : V-pull ≈ 1:1 | **Over** (1.67:1 vs vertical pull) |
+| Vertical pull (pull-up, chin-up, lat pull) | 9 | (paired with vertical push) | **Under** |
+| Squat / knee-dominant (back squat, BSS, step-up) | 30 | Quad:Hinge ≈ 1:1 | OK (1.03:1) |
+| Hinge / hip-dominant (RDL, DL, GHD ext, death march, KB swing, SL DL) | 29 | (paired with squat) | OK |
+| Single-leg (BSS, step-up, SL DL, lunge, pistol) | 21 | Bilateral lower : Uni ≈ 3:1 | Heavy on uni (1.6:1) — fine, not a flag |
+| Carry (suitcase, farmer, sandbag) | 6 (1 session) | ≥1 session/wk | OK |
+| Core — anti-extension (TTB, hanging leg raise, hollow, sit-up) | 7 | ≥3 sets/wk | OK (~3.3/wk) |
+| Core — anti-rotation / anti-lateral (Copenhagen, suitcase carry, Pallof) | 14 | ≥3 sets/wk | OK |
+| Core — anti-flexion (GHD back ext, good morning) | 7 | ≥3 sets/wk | OK |
+| Rear delt / direct upper-back (face pull, band pull-apart, reverse fly) | **0** | ≥6 sets/wk | **Under** (rows partially cover, no direct work) |
+
+## 2. Capacity snapshot
+
+**Max strength** (from `Record/20260419` + recent top sets)
+- Back squat 1RM 375# — last top working: 295# 5×5 (4/21), clean. Trend ↑. Capable of more than prescribed.
+- Strict press 1RM 155# — last attempts: 150# x2 clean, 155# failed twice (4/22). Trend → (at the wall).
+- Bench press 1RM 235# — last top working: 185# 5×5 (4/26), failed rep 5 set 4. Trend → at 185#.
+- Deadlift 1RM 425# — no recent direct testing; RDL 198# 10x5 (4/17) and 195# 10x5 (4/23) covering posterior.
+
+**Strength endurance**
+- Squat 5×5 progression: 255 → 275 → 295 across 4/13 → 4/16 → 4/21. Solid linear progression.
+- Bench 5×5: stuck at 185# (one missed rep on 4/26). Hold at 185# next session before bumping to 190#.
+- Strict press 5×5: 120-125# territory holding clean.
+
+**Conditioning** — 2 sessions in window (assault bike intervals 4/16; suitcase-carry/SL-DL AMRAP 4/14). Pace ≈ 1/wk. Modality variety thin — only bike + carry conditioning. Need rower, ski, sled, devil press, wall ball cycled in.
+
+**Power** — 2 sessions: box jumps 4/17, KB swing 4/22. ~1/wk explosive work, on target.
+
+**Aerobic base (Z2)** — *not auto-tracked.* Self-reported via bike commute / hikes / weekend outdoor (e.g., 4/25 hike). Will ask for a rough weekly count when refreshing this file.
+
+## 3. Imbalances flagged
+
+1. **Vertical pull is under-trained** (9 sets vs 15 vertical push, 0.6:1). Add 1 dedicated weighted pull-up day this coming week, and a chin-up accessory on a press day.
+2. **Zero direct rear delt / upper-back work.** Add face pulls or band pull-aparts (10-15 reps) as a finisher 2x/wk — cheap insurance against pressing-heavy posture issues.
+3. **Conditioning modality monoculture** (bike + carry only). Rotate in: row, ski, sled push, devil press, wall ball. Per `notes/0420-0425`: max 1 KB-swing day/wk.
+4. **Strict press at the 1RM wall** (155# failed twice unprompted). Park 1RM attempts. Run 5×5 @ 70-78% (110-120#) for 3-4 weeks of accumulated volume before next test day.
+5. **Bench top set stuck at 185#.** Repeat 185# 5×5 next bench day; only progress to 190# after a clean session.
+
+## 4. Programming assumptions in effect
+
+- **Squat**: bias prescribed loads up — athlete consistently lifts heavier than written (295# on 4/21 vs 280# planned).
+- **Bench**: protect 1 dedicated bench day per week (resolved as of 4/22 + 4/26 — keep it).
+- **Strict press**: no 1RM attempts until earliest week of 2026-05-18. Volume work only.
+- **Finisher rotation**: no KB swings two weeks in a row. Cycle modalities.
+- **1RM tests**: schedule explicitly on a planned test day with proper warm-up ramp; do not run mid-week impulse attempts.
+- **Empty workout file ≠ rest day** — verify by asking before assuming a skip (per `notes/0420-0425`).
