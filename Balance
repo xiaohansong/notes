@@ -1,6 +1,6 @@
 # Balance & Capacity Tracker
 
-Last updated: 2026-04-27
+Last updated: 2026-04-28
 Data window: 2026-04-12 → 2026-04-27 (16 days, 12 logged sessions). Will widen to a true rolling 28 days once enough history exists.
 
 ## 1. Movement-pattern volume
@@ -52,10 +52,11 @@ Counts are working sets only (warm-ups excluded). EMOM/superset sets count indiv
 
 ## 4. Programming assumptions in effect
 
-- **Squat**: bias prescribed loads up — athlete consistently lifts heavier than written (305# clean 4/27 vs 295# the prior session). Trialing **partial Texas Method** for squat starting week of 4/27: Mon volume 5×5 → Sat intensity 1×5 (~5RM). Re-evaluate after 2-3 weeks.
+- **Squat (max focus)**: bias prescribed loads up — athlete consistently lifts heavier than written (305# clean 4/27 vs 295# the prior session). Programming format is **flexible, not locked to Texas Method**: pair one volume day (5×5 @ 78-82%) with one heavy-strength day per week (top set in the 85-92% range — heavy 3 / heavy double / occasional single — followed by hypertrophy back-offs). Rotate the heavy-day rep scheme so the stimulus stays fresh; TM intensity 1×5 is one option among several.
+- **Strict press (max focus, currently parked)**: 1RM at the 155# wall (failed 4/22). Build toward a higher max via accumulated 5×5 volume @ 70-78% (110-120#) plus 1 hypertrophy press accessory (DB OHP 8-10 reps) per press day. No 1RM attempts until earliest week of 2026-05-18.
 - **Training cadence**: athlete trains 4 days/week, sometimes 5 if free. Do not prescribe 6-day weeks. Optional/flex sessions are fine but mark them clearly.
 - **Bench**: protect 1 dedicated bench day per week (resolved as of 4/22 + 4/26 — keep it).
-- **Strict press**: no 1RM attempts until earliest week of 2026-05-18. Volume work only.
+- **Hypertrophy bias on non-priority lifts**: bench, RDL, single-leg, and direct-arm work programmed in the 8-12 rep range (or 5×5 hold, in bench's case until 185# is clean). The two priority lifts (squat, press) get the strength stimulus; everything else gets the growth stimulus.
 - **Finisher rotation**: no KB swings two weeks in a row. Cycle modalities.
 - **1RM tests**: schedule explicitly on a planned test day with proper warm-up ramp; do not run mid-week impulse attempts.
 - **Empty workout file ≠ rest day** — verify by asking before assuming a skip (per `notes/0420-0425`).
