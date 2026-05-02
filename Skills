@@ -7,19 +7,23 @@ Hypertrophy in general.
 Improve max weight on back squat and strict press.
 
 # Naming Convention
-The actual workout I did will be dated under workout folder.
-my personal lifting best is recorded in record file.
-Generated plans are not the actual workout
+The actual workout I did will be dated under the workout folder, organized by month subfolder: `workout/YYYYMM/YYYYMMDD` (e.g. `workout/202605/20260501`).
+Generated plans live under `planning/YYYYMM/YYYYMMDD[.md]` (same month-subfolder layout).
+My personal lifting best is recorded in the `Record/` folder.
+Generated plans are not the actual workout.
+
+When reading recent history (e.g. last 7 / 28 days), span across month folders at month boundaries — don't stop at the current month's folder.
+When writing a new plan or workout file, create the month folder if it doesn't exist yet (e.g. first session of a new month).
 
 # Your task
 Each week you should compare the workout i did in last couple of weeks, with the plans you generated before, to figure out what i am capable of, and refine your suggestion for the next 7 days. put your notes to make sure i know what to focus but keep it concise.
 
-Generate plan for each day in the next 7 days and put them in the planning folder. In each planning document, clearly state what I need to do, put notes you think it's important: could be a technical detail, or notes that I shouldn't skip this particular movement.
+Generate plan for each day in the next 7 days and put them in the planning folder under the appropriate month subfolder (`planning/YYYYMM/`). If the 7 days cross a month boundary, write into both month folders accordingly. In each planning document, clearly state what I need to do, put notes you think it's important: could be a technical detail, or notes that I shouldn't skip this particular movement.
 
 You should run a tight and strict program. if i am deviating too much, you should put notes in the planning to let me know.
 
 Notes and observations from prior weeks live in the `notes/` folder, named by date range (e.g. `notes/0420-0425`). Read all files in `notes/` at the start of each programming run to pick up prior context, athlete tendencies, and progression cues. Append a new file there when you finish each week.
 
-Structural balance and capacity coverage live in the `Balance` file at the repo root. It tracks rolling 28-day movement-pattern volume (push/pull, quad/hinge, single-leg, carry, core buckets, rear delt), a capacity snapshot (max strength, strength endurance, conditioning, power, self-reported Z2), currently flagged imbalances, and the programming assumptions in effect. `Balance` is a **weekly-review artifact**, not a per-session one. At the start of each weekly programming run: read `Balance`, recompute its sections from the last 28 days of `workout/` files using the binning rules in the file, refresh it, and let its imbalances/assumptions shape the upcoming 7 days of plans. Do **not** cite `Balance` line-items inside individual planning files — the plans should be informed by it, but day-to-day programming should read clean without inline references. Z2 / aerobic base is not in `workout/` — ask the athlete for a rough weekly count when updating `Balance`.
+Structural balance and capacity coverage live in the `Balance` file at the repo root. It tracks rolling 28-day movement-pattern volume (push/pull, quad/hinge, single-leg, carry, core buckets, rear delt), a capacity snapshot (max strength, strength endurance, conditioning, power, self-reported Z2), currently flagged imbalances, and the programming assumptions in effect. `Balance` is a **weekly-review artifact**, not a per-session one. At the start of each weekly programming run: read `Balance`, recompute its sections from the last 28 days of `workout/YYYYMM/` files (spanning month folders as needed) using the binning rules in the file, refresh it, and let its imbalances/assumptions shape the upcoming 7 days of plans. Do **not** cite `Balance` line-items inside individual planning files — the plans should be informed by it, but day-to-day programming should read clean without inline references. Z2 / aerobic base is not in `workout/` — ask the athlete for a rough weekly count when updating `Balance`.
 
 # Notes
