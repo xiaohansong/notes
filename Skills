@@ -52,25 +52,38 @@ Notes and observations from prior weeks live in the `notes/` folder, named by da
 - No filler. If a movement has no notes worth giving, the prescription line is enough.
 
 ## Visual separation of prescription vs notes
-The prescribed work and the coaching notes must look visually distinct so the athlete can scan the prescription mid-session without re-reading prose.
+The prescription and coaching notes must look **visually distinct** so the athlete can scan the working sets mid-session without re-reading prose.
 
-- Prescription line: **bold**, with loads in `code` formatting. E.g. `**5×5 @ `185#`, every 3:00**`
-- Coach's notes: plain prose under a `**Notes:**` lead, OR a blockquote (`> ...`) for short cues. Pick one and stay consistent within a file.
-- Decision rules / bail rules: prefix with `**Decision rule:**` or `**Bail rule:**` so they're scannable.
+- **Prescription = fenced code block.** Render the working sets in a code block (monospace, tinted background, distinct from prose):
+
+  ````
+  ```
+  Every 3:00 × 5 sets
+  5 reps @ 315#
+  ```
+  ````
+
+- **Notes = plain prose** *after* the code block. Keep tight — cues, RPE rules, why-it-matters. No `**Notes:**` lead-in needed if the prose follows immediately after the code block.
+- **Decision / bail rules:** prefix with `**Decision rule:**` or `**Bail rule:**` so they're scannable.
+- Do **not** use bold + inline-code for prescription. The fenced code block is the visual anchor — pick one style and stay consistent.
 
 ## Supersets — present as ONE block, not two
-Do **not** split a superset into two separate `## N.` headings with cross-references like "superset with #3". Combine them into a single block:
+Combine into a single `## N.` heading with both moves listed inside the same code block, prefixed `A)` / `B)`:
+
+````
+## 2. Bench Press + Barbell Row — superset
 
 ```
-## 2. Bench Press + DB Row — superset
-**Every 3:00 for 5 sets:**
-- Bench press: `5 reps @ 185#`
-- DB row: `10 reps each side @ 70# DB`
-
-**Notes:** ...
+Every 3:00 × 5 sets
+A) Bench press: 5 reps @ 185#
+B) Barbell row: 8 reps @ 135#
 ```
 
-The pairing should be readable as one unit because that's how it's executed.
+**Bench:** holding 185# from last week's struggle. RPE cap 8.
+**Row:** strong scap retraction, no momentum. Lighten to 8s after last week's late-set rep failures.
+````
+
+Notes per movement get separate bold leads (`**Bench:**`, `**Row:**`) so each movement's coaching cues are visually scoped to that movement.
 
 Structural balance and capacity coverage live in the `Balance` file at the repo root. It tracks rolling 28-day movement-pattern volume (push/pull, quad/hinge, single-leg, carry, core buckets, rear delt), a capacity snapshot (max strength, strength endurance, conditioning, power, self-reported Z2), currently flagged imbalances, and the programming assumptions in effect. `Balance` is a **weekly-review artifact**, not a per-session one. At the start of each weekly programming run: read `Balance`, recompute its sections from the last 28 days of `workout/YYYYMM/` files (spanning month folders as needed) using the binning rules in the file, refresh it, and let its imbalances/assumptions shape the upcoming 7 days of plans. Do **not** cite `Balance` line-items inside individual planning files — the plans should be informed by it, but day-to-day programming should read clean without inline references. Z2 / aerobic base is not in `workout/` — ask the athlete for a rough weekly count when updating `Balance`.
 
