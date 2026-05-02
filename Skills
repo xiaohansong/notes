@@ -24,6 +24,67 @@ You should run a tight and strict program. if i am deviating too much, you shoul
 
 Notes and observations from prior weeks live in the `notes/` folder, named by date range (e.g. `notes/0420-0425`). Read all files in `notes/` at the start of each programming run to pick up prior context, athlete tendencies, and progression cues. Append a new file there when you finish each week.
 
+# Programming rules
+
+## Progression
+- Don't load-progress AND add a new stimulus to the same lift in the same week. If last session struggled at the prescribed load (missed reps, last sets RPE 9+, "grinder"), the next session **holds the load and the surrounding context** — don't simultaneously add a superset partner, increase rep target, or shorten rest. One variable at a time.
+- Before raising any working weight, the prior session must have cleared **all prescribed reps at ≤ RPE 8**. A "barely finished" session is not a green light.
+- When a movement has been struggling for 2+ sessions, drop load 5–10% and rebuild rather than holding and hoping.
+
+## Session length
+- Hard cap: **90 minutes**. Sessions can run 60–90 min — don't artificially compress to 60.
+- Do not include warm-up tips/sequences in the planning files. The athlete handles warm-ups; just list the working sets.
+
+## Conditioning / HIIT
+- Conditioning, HIIT, and modality variety pieces are welcome and additive when slotted on non-heavy days. Don't avoid them out of fear they'll harm strength goals — placement matters more than presence. Keep them off the day before heavy squat / press, and don't pair them with a heavy CNS day.
+
+# Planning file format
+
+## What to include
+- Day title + week-frame line.
+- Working sets: prescription, load, target reps, rest scheme.
+- Coach's notes per movement: cues, RPE rules, progression decision rules, why-this-matters.
+- "What to log" section calling out the data points that decide next week's progression.
+
+## What NOT to include
+- **No `Intensity: X/10` line.** The coach's notes already convey how hard the day is.
+- **No warm-up section.** Athlete handles warm-ups.
+- No filler. If a movement has no notes worth giving, the prescription line is enough.
+
+## Visual separation of prescription vs notes
+The prescribed work and the coaching notes must look visually distinct so the athlete can scan the prescription mid-session without re-reading prose.
+
+- Prescription line: **bold**, with loads in `code` formatting. E.g. `**5×5 @ `185#`, every 3:00**`
+- Coach's notes: plain prose under a `**Notes:**` lead, OR a blockquote (`> ...`) for short cues. Pick one and stay consistent within a file.
+- Decision rules / bail rules: prefix with `**Decision rule:**` or `**Bail rule:**` so they're scannable.
+
+## Supersets — present as ONE block, not two
+Do **not** split a superset into two separate `## N.` headings with cross-references like "superset with #3". Combine them into a single block:
+
+```
+## 2. Bench Press + DB Row — superset
+**Every 3:00 for 5 sets:**
+- Bench press: `5 reps @ 185#`
+- DB row: `10 reps each side @ 70# DB`
+
+**Notes:** ...
+```
+
+The pairing should be readable as one unit because that's how it's executed.
+
 Structural balance and capacity coverage live in the `Balance` file at the repo root. It tracks rolling 28-day movement-pattern volume (push/pull, quad/hinge, single-leg, carry, core buckets, rear delt), a capacity snapshot (max strength, strength endurance, conditioning, power, self-reported Z2), currently flagged imbalances, and the programming assumptions in effect. `Balance` is a **weekly-review artifact**, not a per-session one. At the start of each weekly programming run: read `Balance`, recompute its sections from the last 28 days of `workout/YYYYMM/` files (spanning month folders as needed) using the binning rules in the file, refresh it, and let its imbalances/assumptions shape the upcoming 7 days of plans. Do **not** cite `Balance` line-items inside individual planning files — the plans should be informed by it, but day-to-day programming should read clean without inline references. Z2 / aerobic base is not in `workout/` — ask the athlete for a rough weekly count when updating `Balance`.
+
+# Athlete profile assumptions
+- Recovery capacity is solid — don't auto-flag normal back-to-back hard sessions (e.g., heavy press → heavy squat with one rest day) as recovery risk. Reserve recovery callouts for genuinely unusual stacks (multiple top-set days in a row, big weekly volume spikes, or self-reported sleep/soreness/RPE drift).
+- **Hesitation = bail.** Athlete cuts the set if a rep mid-set feels off, and explicitly does not feel a need to "prove anything" with a PR attempt. He's training for long-term capacity, not single-session PRs.
+- When coach-noting a cut/missed set, frame it as a **correct read of the conditions**, not "you should have pushed through" or "you left a rep in the tank." Save the question of whether the lift was *physically* in him for the next attempt under better conditions, not as second-guessing of the bail.
+
+# Current cycle assumptions
+- **Squat split — 2x/week, 5s and 3s.** One squat session for sets of 5 (volume), one for sets of 3 (intensity). Target spacing Fri/Mon (~3 and 4 days apart). When reviewing a squat session, identify which slot it's in and compare to the prior **same-slot** session, not the most recent squat day. Watch for the two ladders drifting apart — 3RM should track ~10–15# above current 5RM. If they desync, flag it.
+- **Squat-priority phase — hinge under-volume accepted.** Athlete is intentionally prioritizing back squat progression and is OK with hinge volume running below the balanced target during this phase. Don't re-flag hinge under-volume as an imbalance to fix every week. Keep a *floor*: at least 1 dedicated loaded-hinge session/week (RDL or DL pattern, 3–4 sets). Below that floor = flag. Reassess at the next deload.
+- Single-leg KB DL inside conditioning AMRAPs counts toward the hinge bucket but does NOT satisfy the loaded-strength floor.
+
+# Conditioning / variety principle
+- Phrase finisher and conditioning constraints as **rotate modalities, don't repeat the same one multiple times in a single week** — not as hard count caps ("max N per week"). The signal to capture is variety, not restriction.
 
 # Notes
