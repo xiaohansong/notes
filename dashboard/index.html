@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Strength dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-row">
+      <h1>Strength dashboard</h1>
+      <div class="meta">
+        <span id="generated"></span>
+        <span class="dot">·</span>
+        <span id="bodyweight"></span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="featured">
+      <h2>Featured lifts</h2>
+      <div class="featured-grid" id="featured-grid"></div>
+    </section>
+
+    <section class="card">
+      <h2>Estimated 1RM trend — all featured lifts</h2>
+      <div class="chart-wrap"><canvas id="chart-e1rm-all"></canvas></div>
+      <p class="caption">Epley estimate from each session's top set. Higher reps = rougher estimate; sets above 10 reps are excluded.</p>
+    </section>
+
+    <section class="card">
+      <h2>Back squat — every working set</h2>
+      <div class="chart-wrap"><canvas id="chart-zoom-squat"></canvas></div>
+      <p class="caption">Each point is one set, sized and colored by rep count. Hover for load × reps.</p>
+    </section>
+
+    <section class="card">
+      <h2>Strict press — every working set</h2>
+      <div class="chart-wrap"><canvas id="chart-zoom-ohp"></canvas></div>
+      <p class="caption">Each point is one set. Cycle priority lift.</p>
+    </section>
+
+    <section class="card">
+      <h2>Weekly volume by movement pattern</h2>
+      <div class="chart-wrap"><canvas id="chart-volume"></canvas></div>
+      <p class="caption">Stacked: total load × reps per pattern, week starting Monday. Bodyweight movements use bodyweight from config.</p>
+    </section>
+
+    <section class="card">
+      <h2>Recent PRs (last 8 weeks)</h2>
+      <div id="prs-table"></div>
+    </section>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>
