@@ -496,8 +496,11 @@ def build_dashboard_data() -> dict[str, Any]:
 
 def main():
     data = build_dashboard_data()
-    out_path = Path(__file__).resolve().parent / "data.json"
-    out_path.write_text(json.dumps(data, indent=2, default=str))
+    # Write as a JS file so the dashboard can load it via <script> tag
+    # without needing a server (avoids CORS issues with fetch() on file://).
+    out_path = Path(__file__).resolve().parent / "data.js"
+    payload = json.dumps(data, indent=2, default=str)
+    out_path.write_text(f"window.DASHBOARD_DATA = {payload};\n")
     print(f"Wrote {out_path}")
 
 
