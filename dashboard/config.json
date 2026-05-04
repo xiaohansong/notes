@@ -5,8 +5,7 @@
     "strict_press",
     "bench_press",
     "weighted_pullup",
-    "barbell_row",
-    "rdl"
+    "barbell_row"
   ],
   "zoom_lifts": ["back_squat", "strict_press"],
   "lift_aliases": {

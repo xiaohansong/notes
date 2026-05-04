@@ -1,6 +1,6 @@
 # Strength dashboard
 
-_Updated May 3, 2026 9:58 PM · BW 180#_
+_Updated May 3, 2026 10:02 PM · BW 180#_
 
 ## Featured lifts
 
@@ -11,7 +11,6 @@ _Updated May 3, 2026 9:58 PM · BW 180#_
 | **Bench press** | 216# | 185# × 5 | May 2 | 0.0# vs Apr 26 |
 | **Weighted pull-up** | 251# | BW+35# × 5 (sys 215#) | Apr 27 | 0.0# vs Apr 22 |
 | **Barbell row** | 180# | 135# × 10 | May 2 | +53.3# vs Apr 23 |
-| **RDL** | 260# | 195# × 10 | Apr 23 | -4.0# vs Apr 17 |
 
 ## Estimated 1RM trend — all featured lifts
 
@@ -42,7 +41,6 @@ _Stacked: total load × reps per pattern, week starting Monday._
 | Lift | Top set | e1RM | Date |
 |---|---|---:|---|
 | Back squat | 335# × 3 | 368.5# | May 1 |
-| RDL | 198# × 10 | 264.0# | Apr 17 |
 | Weighted pull-up | BW+35# × 5 (sys 215#) | 250.8# | Apr 27 |
 | Bench press | 185# × 5 | 215.8# | May 2 |
 | Barbell row | 135# × 10 | 180.0# | Apr 19 |
