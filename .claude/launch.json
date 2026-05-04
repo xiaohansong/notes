@@ -4,7 +4,7 @@
     {
       "name": "dashboard",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["dashboard/serve.py", "--port", "8765"],
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "dashboard"],
       "port": 8765
     }
   ]

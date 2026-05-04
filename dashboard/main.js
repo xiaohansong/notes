@@ -282,9 +282,11 @@ function renderPRs(data) {
   container.innerHTML = html;
 }
 
-async function main() {
-  const res = await fetch(`data.json?t=${Date.now()}`);
-  const data = await res.json();
+function main() {
+  const data = window.DASHBOARD_DATA;
+  if (!data) {
+    throw new Error("window.DASHBOARD_DATA is missing — data.js was not loaded.");
+  }
   setHeader(data);
   renderFeaturedCards(data);
   renderE1rmAll(data);
@@ -294,7 +296,9 @@ async function main() {
   renderPRs(data);
 }
 
-main().catch((err) => {
+try {
+  main();
+} catch (err) {
   console.error(err);
-  document.body.innerHTML = `<pre style="color:#f78166;padding:24px">Failed to load data.json:\n${err.message}\n\nRun: python3 dashboard/parse.py</pre>`;
-});
+  document.body.innerHTML = `<pre style="color:#f78166;padding:24px">Failed to load dashboard data:\n${err.message}\n\nRun: python3 dashboard/parse.py</pre>`;
+}

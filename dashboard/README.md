@@ -9,20 +9,15 @@ Tracks strength progression off the `workout/YYYYMM/YYYYMMDD` logs. Charts:
 - Weekly volume by movement pattern
 - Recent PRs (8-week trailing)
 
-## Run
+## Use
 
-```sh
-python3 dashboard/serve.py
-```
+Two view modes, both fully static:
 
-Open http://localhost:8765. The server regenerates the data on every page
-load, so edit a workout log and refresh.
-
-To regenerate `data.json` once without serving:
-
-```sh
-python3 dashboard/parse.py
-```
+- **GitHub** — view [`DASHBOARD.md`](DASHBOARD.md) on github.com.
+  Regenerate with `python3 dashboard/render_md.py` (writes the .md plus
+  SVG charts under `charts/`). Requires `matplotlib`.
+- **Local browser** — open `dashboard/index.html` directly.
+  Regenerate with `python3 dashboard/parse.py` (writes `data.js`).
 
 ## Adding new lifts to the dashboard
 
