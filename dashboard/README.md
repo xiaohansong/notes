@@ -1,6 +1,6 @@
 # Strength dashboard
 
-_Updated May 3, 2026 10:02 PM · BW 180#_
+_Updated May 3, 2026 10:09 PM · BW 180#_
 
 ## Featured lifts
 
@@ -18,17 +18,17 @@ _Updated May 3, 2026 10:02 PM · BW 180#_
 
 _Epley estimate from each session's top set. Sets above 10 reps excluded._
 
-## Back squat — every working set
+## Back squat — daily volume by load
 
-![Squat working sets](charts/zoom_back_squat.svg)
+![Squat daily volume](charts/zoom_back_squat.svg)
 
-_Each point is one set, colored by rep count._
+_One dot per (date, load). Dot size scales with total reps that day at that load._
 
-## Strict press — every working set
+## Strict press — daily volume by load
 
-![Strict press working sets](charts/zoom_strict_press.svg)
+![Strict press daily volume](charts/zoom_strict_press.svg)
 
-_Cycle priority lift._
+_One dot per (date, load). Dot size scales with total reps that day at that load. Cycle priority lift._
 
 ## Weekly volume by movement pattern
 

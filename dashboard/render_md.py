@@ -153,36 +153,27 @@ def render_zoom(data, lid: str, title: str) -> str | None:
     if not sets:
         return None
 
-    # Collapse identical (date, load, reps) tuples into one point with a count.
-    # Marker area scales with set count so e.g. 5×305 dwarfs a single 335.
-    counts: dict[tuple, int] = {}
+    # One dot per (date, load) — size encodes total reps that day at that load.
+    totals: dict[tuple, int] = {}
     for s in sets:
-        key = (s["date"], s["load_lb"], s["reps"])
-        counts[key] = counts.get(key, 0) + 1
+        key = (s["date"], s["load_lb"])
+        totals[key] = totals.get(key, 0) + s["reps"]
 
-    by_reps: dict[int, list[dict]] = {}
-    for (date, load, reps), n in counts.items():
-        by_reps.setdefault(reps, []).append({"date": date, "load_lb": load, "count": n})
+    xs = [datetime.fromisoformat(d) for (d, _) in totals]
+    ys = [load for (_, load) in totals]
+    sizes = [30 + 12 * r for r in totals.values()]  # 1 rep ≈ 42, 25 reps ≈ 330
 
     fig, ax = _new_fig()
-    for i, reps in enumerate(sorted(by_reps.keys())):
-        pts = by_reps[reps]
-        xs = [datetime.fromisoformat(p["date"]) for p in pts]
-        ys = [p["load_lb"] for p in pts]
-        sizes = [40 + 35 * p["count"] for p in pts]  # 1 set ≈ 75, 5 sets ≈ 215
-        ax.scatter(
-            xs, ys,
-            color=REP_PALETTE[i % len(REP_PALETTE)],
-            s=sizes, label=f"{reps} rep{'' if reps == 1 else 's'}",
-            edgecolors="none",
-            alpha=0.85,
-        )
+    ax.scatter(
+        xs, ys,
+        color=LIFT_COLORS.get(lid, "#888"),
+        s=sizes,
+        edgecolors="none",
+        alpha=0.85,
+    )
     ax.set_ylabel("Working set load (lb)")
     ax.xaxis.set_major_locator(mdates.AutoDateLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
-    leg = ax.legend(loc="best", facecolor=BG, edgecolor=GRID, labelcolor=FG)
-    for text in leg.get_texts():
-        text.set_color(FG)
     return _save(fig, f"zoom_{lid}.svg")
 
 
@@ -292,21 +283,21 @@ def render_markdown(data, chart_paths: dict[str, str | None]) -> str:
 
     if chart_paths.get("squat"):
         parts += [
-            "## Back squat — every working set",
+            "## Back squat — daily volume by load",
             "",
-            f"![Squat working sets]({chart_paths['squat']})",
+            f"![Squat daily volume]({chart_paths['squat']})",
             "",
-            "_Each point is one set, colored by rep count._",
+            "_One dot per (date, load). Dot size scales with total reps that day at that load._",
             "",
         ]
 
     if chart_paths.get("ohp"):
         parts += [
-            "## Strict press — every working set",
+            "## Strict press — daily volume by load",
             "",
-            f"![Strict press working sets]({chart_paths['ohp']})",
+            f"![Strict press daily volume]({chart_paths['ohp']})",
             "",
-            "_Cycle priority lift._",
+            "_One dot per (date, load). Dot size scales with total reps that day at that load. Cycle priority lift._",
             "",
         ]
 
