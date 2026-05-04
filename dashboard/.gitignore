@@ -2,4 +2,6 @@ data.js
 __pycache__/
 *.pyc
 
-# DASHBOARD.md and charts/ are intentionally tracked — they render on GitHub.
+# README.md and charts/ are intentionally tracked — README.md is generated
+# by render_md.py so it auto-renders as the dashboard on github.com when
+# navigating to this folder.
