@@ -140,7 +140,7 @@ def render_e1rm_trend(data) -> str | None:
     ax.set_ylabel("Estimated 1RM (lb)")
     ax.xaxis.set_major_locator(mdates.AutoDateLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
-    leg = ax.legend(loc="best", facecolor=BG, edgecolor=GRID, labelcolor=FG)
+    leg = ax.legend(loc="lower left", facecolor=BG, edgecolor=GRID, labelcolor=FG)
     for text in leg.get_texts():
         text.set_color(FG)
     return _save(fig, "e1rm_trend.svg")
