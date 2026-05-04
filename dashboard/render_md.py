@@ -78,10 +78,12 @@ LIFT_COLORS = {
 PATTERN_COLORS = {
     "squat": "#f78166",
     "hinge": "#d29922",
-    "vertical_push": "#58a6ff",
-    "horizontal_push": "#79c0ff",
-    "vertical_pull": "#a371f7",
-    "horizontal_pull": "#bc8cff",
+    # Push pair: deep blue vs pale blue (was #58a6ff / #79c0ff — too close)
+    "vertical_push": "#0969da",
+    "horizontal_push": "#b3d9ff",
+    # Pull pair: deep purple vs pale lavender (was #a371f7 / #bc8cff — too close)
+    "vertical_pull": "#6e40c9",
+    "horizontal_pull": "#e2cffe",
     "carry": "#3fb950",
 }
 
@@ -151,20 +153,29 @@ def render_zoom(data, lid: str, title: str) -> str | None:
     if not sets:
         return None
 
-    by_reps: dict[int, list[dict]] = {}
+    # Collapse identical (date, load, reps) tuples into one point with a count.
+    # Marker area scales with set count so e.g. 5×305 dwarfs a single 335.
+    counts: dict[tuple, int] = {}
     for s in sets:
-        by_reps.setdefault(s["reps"], []).append(s)
+        key = (s["date"], s["load_lb"], s["reps"])
+        counts[key] = counts.get(key, 0) + 1
+
+    by_reps: dict[int, list[dict]] = {}
+    for (date, load, reps), n in counts.items():
+        by_reps.setdefault(reps, []).append({"date": date, "load_lb": load, "count": n})
 
     fig, ax = _new_fig()
     for i, reps in enumerate(sorted(by_reps.keys())):
         pts = by_reps[reps]
         xs = [datetime.fromisoformat(p["date"]) for p in pts]
         ys = [p["load_lb"] for p in pts]
+        sizes = [40 + 35 * p["count"] for p in pts]  # 1 set ≈ 75, 5 sets ≈ 215
         ax.scatter(
             xs, ys,
             color=REP_PALETTE[i % len(REP_PALETTE)],
-            s=55, label=f"{reps} rep{'' if reps == 1 else 's'}",
+            s=sizes, label=f"{reps} rep{'' if reps == 1 else 's'}",
             edgecolors="none",
+            alpha=0.85,
         )
     ax.set_ylabel("Working set load (lb)")
     ax.xaxis.set_major_locator(mdates.AutoDateLocator())
