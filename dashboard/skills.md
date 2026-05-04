@@ -4,7 +4,7 @@ How to regenerate the dashboard after editing workout logs.
 
 There are two outputs, both built from the same parser:
 
-- `dashboard/DASHBOARD.md` + `dashboard/charts/*.svg` — **for GitHub viewing**
+- `dashboard/README.md` + `dashboard/charts/*.svg` — **for GitHub viewing**
 - `dashboard/data.js` — for the static `index.html` (open locally)
 
 ## Trigger
@@ -17,13 +17,13 @@ summary", or similar after adding/editing files in `workout/YYYYMM/`.
 Run both generators (order doesn't matter):
 
 ```sh
-python3 dashboard/render_md.py    # writes DASHBOARD.md + charts/*.svg
+python3 dashboard/render_md.py    # writes README.md + charts/*.svg
 python3 dashboard/parse.py        # writes data.js
 ```
 
 Each script prints what it wrote. Then:
 
-- For GitHub: commit `DASHBOARD.md` and `charts/`. The `.md` renders inline
+- For GitHub: commit `README.md` and `charts/`. The `.md` renders inline
   on github.com with the SVGs.
 - For local: open `dashboard/index.html` in a browser (no server).
 
@@ -50,7 +50,7 @@ If user wants a new lift charted prominently:
 ## Do not
 
 - Do not start a server to view `index.html` — it's intentionally static.
-- Do not edit `data.js`, `DASHBOARD.md`, or anything in `charts/` by hand.
+- Do not edit `data.js`, `README.md`, or anything in `charts/` by hand.
   All generated.
 - `matplotlib` is required for `render_md.py`. Install with
   `pip3 install matplotlib` if missing.
