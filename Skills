@@ -41,12 +41,36 @@ Notes and observations from prior weeks live in the `notes/` folder, named by da
 # Planning file format
 
 ## What to include
-- Day title + week-frame line.
+- **Date-only H1** — e.g. `# Mon 5/4`. Do NOT append a descriptive subtitle like `— Strict Press + RDL + DB OHP`; the TL;DR below conveys what's in the session and the subtitle just duplicates it.
+- **TL;DR block** right after the H1 — phone-screenshot-friendly summary so the athlete can pull the day up at the gym. See "TL;DR format" below.
+- **Week-frame blockquote** (`> ...`) under the TL;DR with the day's framing (e.g. "Volume squat day. Heavy 3s land Fri.").
 - Working sets: prescription, load, target reps, rest scheme.
 - Coach's notes per movement: cues, RPE rules, progression decision rules, why-this-matters.
 - "What to log" section calling out the data points that decide next week's progression.
 
+## TL;DR format
+Acronyms are fine and encouraged — the athlete reads this on a phone mid-gym. Common ones: `e3:00`/`e2:30` for EMOM-style intervals, `wpu` (weighted pull-up), `sc` (suitcase carry), `HLR` (hanging leg raise), `OHP`, `RDL`, `BSS`, `BMU`, `WPU`, `BS` (back squat), `SP` (strict press).
+
+**Lifting day → bullet list, one bullet per movement block.** A superset is ONE bullet, movements joined with `+`:
+
+```
+**TL;DR**
+- e3:00 squat 315# 5x5
+- e2:30 wpu BW+35# 4x5 + face pull x15
+- 5x sc 70–80# 50ft/side
+- HLR 3x8 NFT
+```
+
+**Rest day or any 1-line summary → inline form:**
+
+```
+**TL;DR** rest · eat & sleep — Fri is heavy
+```
+
+Avoid single-line `·`-separated runs for lifting days — the wall of text is hard to parse on a phone. Bullets give visual breaks between sets.
+
 ## What NOT to include
+- **No descriptive H1 subtitle.** Date only.
 - **No `Intensity: X/10` line.** The coach's notes already convey how hard the day is.
 - **No warm-up section.** Athlete handles warm-ups.
 - No filler. If a movement has no notes worth giving, the prescription line is enough.
