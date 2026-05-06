@@ -26,16 +26,15 @@ If you just want to see where things stand:
 | `Balance` | Weekly-review artifact: movement-pattern volume, capacity snapshot, imbalances, cycle assumptions. |
 | `Record/` | Personal lifting bests. |
 | `planning/YYYYMM/YYYYMMDD[.md]` | Generated daily plans (prescription + coach's notes). |
-| `workout/YYYYMM/YYYYMMDD` | Actual session log. Format spec: [workout/FORMAT.md](workout/FORMAT.md). |
+| `workout/YYYYMM/YYYYMMDD` | Actual session log. Freeform — write whatever captures the session. The dashboard parser picks up `<load> × <reps>` lines for charting; anything else is fine, just not graphed. |
 | `notes/` | Weekly programmer notes (date-range filenames, e.g. `0420-0425`). Context the programmer carries forward week to week. |
 | `feedback/YYYYMMDD.md` | Per-session reviewer output (adherence + plan-quality grade). |
 | `dashboard/` | Static dashboard. `index.html` for local browser view; `README.md` for the GitHub-rendered version. |
 
 ## Workflow
 
-- **Each session** — log to `workout/YYYYMM/YYYYMMDD` per
-  [workout/FORMAT.md](workout/FORMAT.md). The reviewer agent
-  (`Feedback.md`) writes a feedback file the next day.
+- **Each session** — log to `workout/YYYYMM/YYYYMMDD`. Freeform; the
+  reviewer agent (`Feedback.md`) writes a feedback file the next day.
 - **Each week** — programmer agent (`Skills`) reads recent workouts,
   refreshes `Balance`, appends a note to `notes/`, and writes the next
   7 days into `planning/`.

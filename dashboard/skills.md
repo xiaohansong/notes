@@ -14,13 +14,7 @@ summary", or similar after adding/editing files in `workout/YYYYMM/`.
 
 ## Steps
 
-1. **Verify the workout log is in canonical format first.** The parser
-   silently produces an empty session for files that don't match
-   `workout/FORMAT.md` — running the generators on a malformed log will
-   regenerate `README.md` (timestamp moves) without picking up any
-   movements, and the charts will look unchanged. See *Pre-flight check*
-   below before regenerating.
-2. Run both generators (order doesn't matter):
+1. Run both generators (order doesn't matter):
 
    ```sh
    python3 dashboard/render_md.py    # writes README.md + charts/*.svg
@@ -28,19 +22,21 @@ summary", or similar after adding/editing files in `workout/YYYYMM/`.
    ```
 
    Each script prints what it wrote.
-3. **Verify the new session actually landed.** Diff `dashboard/README.md`
+2. **Verify the new session actually landed.** Diff `dashboard/README.md`
    — at minimum the timestamp should change AND if the session contained
    a featured lift (squat / press / bench / pull-up / row), the
    featured-lift table or PR table should reflect it. If only the
-   timestamp moved, the parser didn't read the movements (see
-   *Pre-flight check*).
-4. Commit `workout/...` (if edited), `README.md`, and `charts/`. The
+   timestamp moved, the parser didn't pick up the movements — see
+   *Diagnostic* below.
+3. Commit `workout/...` (if edited), `README.md`, and `charts/`. The
    `.md` renders inline on github.com with the SVGs. For the local view,
    open `dashboard/index.html` in a browser (no server).
 
-## Pre-flight check — confirm the parser sees the log
+## Diagnostic — did the parser see the log?
 
-Before regenerating, sanity-check that today's log parses. Run:
+The workout log is freeform; the parser only picks up movements when
+it recognizes a working-set pattern. To check what landed for a given
+date:
 
 ```sh
 python3 -c "
@@ -56,28 +52,25 @@ for s in parse_all():
 "
 ```
 
-If the date prints with **zero movement lines**, the file isn't in the
-canonical format — fix the file before regenerating. Common causes:
+If the date prints with **zero movement lines**, the parser didn't find
+anything chartable. That's not wrong — the log entry is still valid —
+but the dashboard won't graph it. Patterns the parser recognizes:
 
-- Prose narration (`Squat every 3:30 for 5 sets / 315# for 5 reps`)
-  instead of `## <Lift> — <scheme>` blocks with a `<load> × <reps>` line.
-- Missing the leading `# YYYY-MM-DD` header.
-- Reps written `5 reps` or `5x5` instead of `5/5/5/5/5` or `5×5`.
+- A `## <Lift name>` header for each movement.
+- A working-set line of the form `<load> × <reps>` underneath:
+  `185# × 5/5/5/5/5`, `5×5`, `305# × 3, 315# × 3, 325# × 3`.
+- A leading `# YYYY-MM-DD` header on the file.
 
-See `workout/FORMAT.md` for the spec and reformat the file. Then re-run
-the pre-flight before regenerating.
+If you want a session graphed, edit it to include those patterns. If
+you don't care about the graph for that session, leave it.
 
-## When parse fails
+## When a movement is missing from charts
 
-- The whole session has zero movements → the log isn't in canonical
-  format. Run the pre-flight snippet above to confirm, then reformat
-  the file per `workout/FORMAT.md`.
-- A movement is missing from charts → the lift name in the log isn't in
-  `lift_aliases`. Add it to `dashboard/config.json` under `lift_aliases`
-  (lowercase name → canonical id) and re-run.
-- Working sets not appearing → the working-set line must match
+- Lift name not recognized → add it to `lift_aliases` in
+  `dashboard/config.json` (lowercase name → canonical id) and re-run.
+- Working sets not appearing → the working-set line needs to match
   `<load> × <reps>` (e.g. `185# × 5/5/5/5/5` or
-  `305# × 3, 315# × 3`). See `workout/FORMAT.md`.
+  `305# × 3, 315# × 3`).
 
 ## Adding a new featured lift
 
