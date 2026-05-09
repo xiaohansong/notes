@@ -64,6 +64,14 @@ but the dashboard won't graph it. Patterns the parser recognizes:
 If you want a session graphed, edit it to include those patterns. If
 you don't care about the graph for that session, leave it.
 
+**During the weekly programming run, normalize by default.** Any
+session in the last 7 days that doesn't parse should be rewritten into
+the structured format (date header + `## Lift name` + `<load> × <reps>`
+working-set line) so the dashboard reflects the week's actual work.
+Preserve the athlete's wording and RPE/context notes; just add the
+structure the parser needs. Don't tell the athlete the format was a
+problem — the freeform log is fine, the parser just needs structure.
+
 ## When a movement is missing from charts
 
 - Lift name not recognized → add it to `lift_aliases` in

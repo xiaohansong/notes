@@ -214,6 +214,14 @@ def fmt_date_long(iso: str) -> str:
     return datetime.fromisoformat(iso).strftime("%b %-d")
 
 
+def fmt_load(lb: float) -> str:
+    """Render a load in lb, rounding kg→lb conversions to nearest 0.5."""
+    rounded = round(lb * 2) / 2
+    if rounded == int(rounded):
+        return f"{int(rounded)}"
+    return f"{rounded:g}"
+
+
 def featured_table(data) -> str:
     rows = ["| Lift | Current e1RM | Top set | Date | Δ vs prior |",
             "|---|---:|---|---|---:|"]
@@ -226,9 +234,9 @@ def featured_table(data) -> str:
         latest = series[-1]
         prev = series[-2] if len(series) > 1 else None
         if latest.get("added_lb") is not None:
-            top = f"BW+{latest['added_lb']:g}# × {latest['top_reps']} (sys {latest['top_load_lb']:g}#)"
+            top = f"BW+{latest['added_lb']:g}# × {latest['top_reps']} (sys {fmt_load(latest['top_load_lb'])}#)"
         else:
-            top = f"{latest['top_load_lb']:g}# × {latest['top_reps']}"
+            top = f"{fmt_load(latest['top_load_lb'])}# × {latest['top_reps']}"
         if prev:
             d = latest["e1rm"] - prev["e1rm"]
             sign = "+" if d > 0 else ""
@@ -249,9 +257,9 @@ def prs_table(data) -> str:
             "|---|---|---:|---|"]
     for r in prs:
         if r.get("added_lb") is not None:
-            top = f"BW+{r['added_lb']:g}# × {r['top_reps']} (sys {r['top_load_lb']:g}#)"
+            top = f"BW+{r['added_lb']:g}# × {r['top_reps']} (sys {fmt_load(r['top_load_lb'])}#)"
         else:
-            top = f"{r['top_load_lb']:g}# × {r['top_reps']}"
+            top = f"{fmt_load(r['top_load_lb'])}# × {r['top_reps']}"
         rows.append(
             f"| {r['lift_name']} | {top} | {r['e1rm']:.1f}# | {fmt_date_long(r['date'])} |"
         )

@@ -41,6 +41,8 @@
     "suitcase carry": "carry",
     "face pull": "face_pull",
     "box step-up": "box_step_up",
+    "weighted step-up": "box_step_up",
+    "weighted step up": "box_step_up",
     "box jump": "box_jump",
     "strict toes-to-bar": "ttb",
     "ghd back extension": "ghd_back_ext",

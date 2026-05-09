@@ -124,4 +124,28 @@ Structural balance and capacity coverage live in the `Balance` file at the repo 
 # Conditioning / variety principle
 - Phrase finisher and conditioning constraints as **rotate modalities, don't repeat the same one multiple times in a single week** — not as hard count caps ("max N per week"). The signal to capture is variety, not restriction.
 
+# Dashboard refresh — bake into the weekly run
+
+After writing this week's notes and next week's plans, refresh the dashboard:
+
+```sh
+python3 dashboard/render_md.py
+python3 dashboard/parse.py
+```
+
+**Verify the latest sessions actually landed.** Read `dashboard/README.md` and confirm:
+- The "Featured lifts" table shows the most recent training date for any lift the athlete trained this week (squat / press / bench / pull-up / row).
+- The Δ vs prior column reflects the latest session, not a stale one.
+
+If a session in the last 7 days is missing from the dashboard, the parser didn't pick it up — almost always because the freeform log didn't match the parser's expected `## Lift name` + `<load> × <reps>` shape. **Normalize the log file** so it parses (don't just leave it):
+
+1. Read the raw log. Preserve the athlete's wording and substance.
+2. Add `# YYYY-MM-DD` date header if missing.
+3. Convert each lift block into `## <Lift name> — <scheme>` followed by a working-set line in `<load> × <reps>` form (e.g. `345# × 3`, or `315# × 3, 335# × 3, 345# × 3` for varying loads, or `90kg × 8/8/8/8/8` for kg).
+4. Keep RPE / form / context as plain prose underneath.
+5. If the lift name isn't in `dashboard/config.json` aliases, add the alias rather than renaming the lift.
+6. Re-run both generators and re-verify.
+
+This is a maintenance step on the dashboard side — **don't tell the athlete the format is a problem.** The freeform log is fine; the parser just needs structure.
+
 # Notes
