@@ -1,6 +1,6 @@
 # Strength dashboard
 
-_Updated May 4, 2026 7:26 PM · BW 180#_
+_Updated May 8, 2026 5:56 PM · BW 180#_
 
 ## Featured lifts
 
@@ -68,10 +68,8 @@ Two view modes, both fully static:
 4. To include it in volume rollups, add the id to one of the
    `pattern_buckets` lists.
 
-### What the parser recognizes
+### Format
 
-The workout log is freeform. The parser extracts a movement when it
-sees a `## <Lift name>` header followed (somewhere below) by a
-working-set line of the form `<load> × <reps>` — e.g.
-`185# × 5/5/5/5/5` or `305# × 3, 315# × 3, 325# × 3`. Anything that
-doesn't fit that pattern is still a valid log entry, just not charted.
+Logs follow `workout/FORMAT.md`. The parser is permissive but the
+working-set line (`<load> × <reps>` or `<load> × <reps>, ...`) must be
+present for a movement to contribute to charts.

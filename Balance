@@ -1,7 +1,7 @@
 # Balance & Capacity Tracker
 
-Last updated: 2026-05-01
-Data window: 2026-04-12 → 2026-05-01 (20 days, 17 logged sessions). Will widen to a true rolling 28 days once enough history exists.
+Last updated: 2026-05-08
+Data window: 2026-04-12 → 2026-05-08 (27 days, 21 logged sessions). 5/8 heavy squat session is upcoming today — counts will refresh next week.
 
 ## 1. Movement-pattern volume
 
@@ -9,63 +9,68 @@ Counts are working sets only (warm-ups excluded). EMOM/superset sets count indiv
 
 | Pattern | Sets | Target ratio | Status |
 |---|---|---|---|
-| Horizontal push (bench, incline, push-up) | 34 | Push:Pull ≈ 1:1 to 1:1.5 | OK (1.26:1, closing) |
+| Horizontal push (bench, incline, push-up, dip) | 35 | Push:Pull ≈ 1:1 to 1:1.5 | OK (1.30:1) |
 | Horizontal pull (BB row, DB row, supported row) | 27 | (paired with push) | OK |
-| Vertical push (strict press, push press) | 24 | V-push : V-pull ≈ 1:1 | OK (1.20:1, slight push bias) |
-| Vertical pull (pull-up, chin-up, lat pull) | 20 | (paired with vertical push) | OK — was under, now within range. Hold 35# pull-up working load (4/27 missed last rep). |
-| Squat / knee-dominant (back squat, BSS, step-up, KB goblet) | 52 | Quad:Hinge ≈ 1:1 | **Heavy quad bias** (1.63:1 — was 1.21:1; jumped from 5/1 heavy day) — accepted within squat-priority phase |
-| Hinge / hip-dominant (RDL, DL, GHD ext, death march, KB swing, SL DL) | 32 | (paired with squat) | Under-fed but accepted; floor = 1 loaded session/wk |
-| Single-leg (BSS, step-up, SL DL, lunge, pistol) | 28 | Bilateral lower : Uni ≈ 3:1 | Heavy on uni — fine, conditioning AMRAPs adding side-DL volume |
-| Carry (suitcase, farmer, sandbag) | 6 (1 session, 4/14) | ≥1 session/wk | **Under** — 0 sessions in last 17 days |
-| Core — anti-extension (TTB, hanging leg raise, hollow, sit-up) | 14 | ≥3 sets/wk | OK (~5/wk) |
-| Core — anti-rotation / anti-lateral (Copenhagen, suitcase carry, Pallof) | 17 | ≥3 sets/wk | OK (no new this week — 4/27 Pallof block was skipped per actual log) |
-| Core — anti-flexion (GHD back ext, good morning) | 7 | ≥3 sets/wk | Under but holding (no new this week) |
-| Rear delt / direct upper-back (face pull, band pull-apart, reverse fly) | 8 | ≥6 sets/wk | Closing — 4 sets 4/27, 4 more landing on Sat 5/2 if plan executes |
-| Conditioning — modality variety | bike, carry, row, mixed-AMRAP (4 modalities) | rotate modality | Improving — 5/1 KB AMRAP added a new modality |
+| Vertical push (strict press, push press, Z press) | 29 | V-push : V-pull ≈ 1:1 | OK (1.45:1, slight push bias from Tue+Sun double-press weeks) |
+| Vertical pull (pull-up, chin-up, lat pull) | 20 | (paired with vertical push) | OK on count — but **35# WPU stalled at 5/5/5/4 three sessions running.** Pivoting to BMU skill + C2B (no load chase) per athlete goal. |
+| Squat / knee-dominant (back squat, BSS, step-up, KB goblet) | 48 | Quad:Hinge ≈ 1:1 | **Heavy quad bias** (1.60:1) — accepted within squat-priority phase |
+| Hinge / hip-dominant (RDL, DL, GHD ext, death march, KB swing, SL DL) | 30 | (paired with squat) | Under-fed but accepted; floor (1 loaded session/wk) **held** — RDL 5/5 landed at 198# × 8 × 4 |
+| Single-leg (BSS, step-up, SL DL, lunge, pistol) | 25 | Bilateral lower : Uni ≈ 3:1 | Heavy on uni — fine, conditioning AMRAPs adding side-DL volume |
+| Carry (suitcase, farmer, sandbag) | 8 (2 sessions: 4/14 AMRAP, 5/4 dedicated) | ≥1 session/wk | OK — Mon 5/4 cleared the deficit |
+| Core — anti-extension (TTB, hanging leg raise, hollow, sit-up) | 13 | ≥3 sets/wk | OK (~3-4/wk) |
+| Core — anti-rotation / anti-lateral (Copenhagen, suitcase carry, Pallof) | 19 | ≥3 sets/wk | OK |
+| Core — anti-flexion (GHD back ext, good morning) | 7 | ≥3 sets/wk | Under (no new sets in last 17 days) — schedule on Fri 5/15 |
+| Rear delt / direct upper-back (face pull, band pull-apart, reverse fly, lateral raise) | 16 | ≥6 sets/wk | OK — deficit closed; step explicit weekly count back to 6-8 maintenance |
+| Conditioning — modality variety | bike, carry, row, mixed-AMRAP, KB-AMRAP (5 modalities) | rotate modality | Improving — but no HIIT 5/2-5/8 (only Z2 bike). Slot ski erg / sled / devil press / bike intervals next week. |
 
 ## 2. Capacity snapshot
 
 **Max strength** (from `Record/20260419` + recent top sets)
-- Back squat 1RM 375# — last top working: 305# 5×5 (4/27, RPE 8 clean) and 335×3 banked (5/1, mid-ladder; bailed rep 3 of 345 attempt). Estimated 1RM now ~365–370#. Trend ↑↑.
-- Strict press 1RM 155# — last top working: 120# 5×5 (4/29, RPE 8 last set). Trend → (parked, no 1RM until ≥5/18).
-- Bench press 1RM 235# — last top working attempt: 185# 5×5 on 4/26, **failed rep 5 set 4**, dropped to 165# for last set. Stuck — repeat hold next bench day.
-- Deadlift 1RM 425# — no recent direct testing. RDL 198# 10×5 (4/17), 195# 10×5 (4/23). **No loaded RDL or DL in last 17 days** — first hinge floor session due 5/5.
+- Back squat 1RM 375# — last top working: 315# 5×5 (5/4, RPE 7-9 last set 9), 335×3 banked (5/1). Estimated 1RM now ~365–370#. Trend ↑↑. 5/8 heavy 3s session pending.
+- Strict press 1RM 155# — last top working: 121# (55kg) 5×5 (5/5, RPE 7 all sets). Trend → (parked, no 1RM until ≥5/18). 5/12 progresses to 122.5#.
+- Bench press 1RM 235# — last top working: 185# 5×5 (5/2), all 25 reps cleared but last 2 sets grindy. Stuck — Sat 5/9 is the next attempt at clean execution.
+- Deadlift 1RM 425# — no recent direct testing. RDL 198# (90kg) × 8 × 4 (5/5), grip-limited last set. Hinge floor held.
 
 **Strength endurance**
-- Squat 5×5 progression: 255 → 275 → 295 → 305 across 4/13 → 4/16 → 4/21 → 4/27. Solid linear progression. Next test 5/4 (315# 5×5 if biasing up per assumptions).
-- Bench 5×5: stuck at 185# (failed rep 5 set 4, 4/26). Hold for retry on next bench day. Drop to 175# if it fails again.
-- Strict press 5×5: 120# RPE 8 last set. Hold or push to 122.5# next press day if first set RPE ≤7.
+- Squat 5×5 progression: 255 → 275 → 295 → 305 → 315 across 4/13 → 4/16 → 4/21 → 4/27 → 5/4. 5/4's 315 had last set RPE 9 — hold 5/11, push 5/18 only if all sets clean.
+- Bench 5×5: stuck at 185# (4/26 missed 5th rep set 4; 5/2 finished but grindy). 5/9 = third attempt.
+- Strict press 5×5: 121# RPE 7 across all sets 5/5. Ready for +2.5# (122.5#) on 5/12.
 
-**Conditioning** — 4 sessions in window (assault bike intervals 4/16, suitcase-carry/SL-DL AMRAP 4/14, row sprints 4/27 @ 1:47–1:49/500m, mixed KB AMRAP 5/1). 4 modalities. Still need ski, sled, devil press, wall ball cycled in.
+**Conditioning** — 5 sessions in window: assault bike intervals 4/16, suitcase-carry/SL-DL AMRAP 4/14, row sprints 4/27 @ 1:47–1:49/500m, mixed KB AMRAP 5/1, Z2 bike 5/3. 5 modalities. Still need ski erg, sled, devil press, wall ball cycled in.
 
-**Power** — 2 sessions (box jumps 4/17, KB swing 4/22). 0 in last 9 days. 1/wk target slipping — schedule one this coming week.
+**Power** — 2 sessions (box jumps 4/17, KB swing 4/22). 0 in last 16 days. 5/9 box jumps + 5/16 broad jumps will refresh this.
 
 **Aerobic base (Z2)** — *not auto-tracked.* Self-reported via bike commute / hikes / weekend outdoor.
-- Week 4/26-5/1: ~2 hours total. 30 min bike (5/1) + 90 min walking (split Tue 4/28 + 5/1).
-- Week 4/20-4/25: hike Saturday 4/25 (duration not captured) — implies a multi-hour outdoor session.
-- Trend: light. Athletes targeting hypertrophy + strength typically benefit from 2-4 hours/wk Z2 minimum. Current ~2hr/wk is the floor; consider a longer single bike or hike on a rest day to push it up without compromising lifting recovery.
+- Week 5/2-5/8: ~2-2.5 hr (Sun 5/3 60-min bike + commute walks).
+- Week 4/26-5/1: ~2 hr (30 min bike + 90 min walking).
+- Week 4/20-4/25: hike Sat 4/25 (multi-hour, duration not captured).
+- Trend: light. Floor held; not pushing toward the 3-4 hr/wk strength + hypertrophy benefit zone. Consider one longer outdoor session on a rest day.
 
 ## 3. Imbalances flagged
 
-1. **Squat:hinge ratio at 1.63:1, heavy quad-biased.** Accepted within squat-priority phase, but enforce a floor of 1 loaded-hinge session/wk (RDL or DL pattern, 3-4 working sets). Last loaded hinge: 4/23. Due 5/5 (Tue press day).
-2. **Bench stuck at 185#** — failed rep 5 set 4 on 4/26, recurring pattern. Hold 185# 5×5 until clean 25/25; drop to 175# if it fails a third time.
-3. **Carry pattern under-trained** — 0 sessions in last 17 days. Slot into Mon-Wed window (NOT Thu — low-compliance).
-4. **Power work stalling** — last explosive session 4/22. 1 piece this week (box jumps, broad jumps, or med ball slam). Sun 5/3 optional flex day is the natural slot.
-5. **Vertical pull working load held** — 35# weighted pull-up missed last rep 4/27. Hold weight; do not progress until 4×5 lands clean.
+1. **Squat:hinge ratio at 1.60:1, heavy quad-biased.** Accepted within squat-priority phase. Floor of 1 loaded-hinge session/wk is **holding** (5/5 RDL landed). Tue 5/12 is the next hinge slot.
+2. **Bench stuck at 185#** — 4-week stall (4/26 missed → 5/2 grindy → 5/9 attempt). If 5/9 is also grindy/missed, drop to 175# rebuild on 5/16.
+3. **35# WPU stalled** — 5/5/5/4 three sessions running. **Pivoting to BMU skill block + C2B BW** per athlete goal. Stop running the 35# WPU progression.
+4. **Power work** — 16 days since last explosive session (4/22). 5/9 box jumps + 5/16 broad jumps re-establish the 1/wk cadence.
+5. **HIIT / interval conditioning** — none 5/2-5/8 (only Z2 bike). 5/16 ski erg or assault bike intervals slot in.
+6. **Anti-flexion core** — 0 new sets 5/2-5/8. 5/15 GHD/good morning addresses.
+7. **Grip endurance** — surfaced as the limiter on 200# RDL × 8s. Watch as RDL load progresses; not yet a programming intervention, but flag for next review.
 
 ## 4. Programming assumptions in effect
 
 - **Squat (max focus, current priority phase)**: bias prescribed loads up — athlete consistently lifts heavier than written. Programming format is **flexible, not locked to Texas Method**: pair one volume day (5×5 @ 78-82%) with one heavy-strength day per week (top set in the 85-92% range — heavy 3 / heavy double / occasional single — followed by hypertrophy back-offs). Rotate the heavy-day rep scheme so the stimulus stays fresh.
 - **Squat split**: formalized 2x/wk — Mon 5s / Fri 3s by default. Treat 5s and 3s as paired ladders (3RM ~10–15# above current 5RM). When 5s move up, 3s move up the next cycle.
-- **Squat-priority phase active**: hinge under-volume accepted. Floor = 1 loaded-hinge session/wk. Reassess at next deload (~5/18-6/01 estimate or earlier if squat stalls).
-- **Strict press (max focus, currently parked)**: 1RM at the 155# wall (failed 4/22). Build via accumulated 5×5 volume @ 70-78% (110-120#) plus 1 hypertrophy press accessory (DB OHP 8-10 reps) per press day. No 1RM attempts until earliest 2026-05-18.
+- **Squat-priority phase active**: hinge under-volume accepted. Floor = 1 loaded-hinge session/wk. Reassess at next deload (~5/18 or earlier if squat stalls).
+- **Strict press (max focus, currently parked)**: 1RM at the 155# wall (failed 4/22). Build via accumulated 5×5 volume @ 70-78% (110-122.5#) plus 1 hypertrophy press accessory (DB OHP 8-10 reps) per press day. No 1RM attempts until earliest 2026-05-18.
+- **Vertical pull priority**: BMU is the headline now, not 35# WPU. Skill block (high pull + false grip + negative/banded) on Sat. C2B BW pull-up for strict-pull volume on Mon. Don't reintroduce loaded WPU progression until BMU pathway has 3-4 weeks of skill exposure.
 - **Training cadence**: 4 days/week, sometimes 5. Do not prescribe 6-day weeks. Optional/flex sessions marked clearly. **Athlete may swap a planned training day with a planned rest day** — design the week so accessory work is portable across days.
 - **Thursday is a low-compliance slot** (4/23 partial, 4/30 social rest). Don't put critical lifts (squat, press, bench) or non-negotiable accessory work (RDL hinge floor) on Thursdays.
 - **Bench**: protect 1 dedicated bench day per week.
 - **Hypertrophy bias on non-priority lifts**: bench, RDL, single-leg, and direct-arm work programmed in the 8-12 rep range (or 5×5 hold, in bench's case until 185# clears). The two priority lifts (squat, press) get the strength stimulus; everything else gets the growth stimulus.
 - **Hesitation = bail**: if a rep mid-set hesitates, athlete cuts the set. Frame coach notes accordingly — cut sets are correct reads, not missed PRs.
-- **Finisher rotation**: no KB swings two weeks in a row. Cycle modalities.
+- **Finisher rotation**: rotate modalities — don't repeat the same one multiple times in a single week. Variety, not hard count caps.
 - **1RM tests**: schedule explicitly on a planned test day with proper warm-up ramp; do not run mid-week impulse attempts.
-- **Empty workout file ≠ rest day** — verify by asking before assuming a skip.
+- **Empty workout file ≠ rest day** — verify before assuming a skip. Exception: scheduled programming-run task may treat missing files as rest if the plan was rest.
 - **Z2 / aerobic base** is not in `workout/` (per athlete memory): bike commute, hikes, weekend outdoor cover it. Don't infer absence from logs.
+- **Kg / lb plate substitution OK** — 55kg ≈ 121# and 90kg ≈ 198# are equivalent to programmed loads; don't re-design sessions around plate availability.
 - **No personal identifiers in repo files** — repo is pushed to GitHub. Identifying details stay out.
