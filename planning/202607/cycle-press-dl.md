@@ -16,9 +16,21 @@
 | Mon | DL volume | Deadlift 3×5 @ ~70%, speed focus |
 | Fri | DL heavy | Top-triple ladder + backoff 2×3 @ ~90% of top |
 | Fri | Press technique | 4×6 @ ~72%, RPE ≤ 7, never heavy |
+| Mon | Accessories | SA DB press + SA row superset · Pallof press |
+| Fri | Accessories | Left-hip unilateral block (after the pulls) · suitcase carry |
 | ×2 floating | CrossFit | As the gym programs it |
 
-Main lifts run solo. One optional accessory block per day, cuttable. 90-min cap holds.
+Main lifts run solo. Accessories are fixed work with their own progression gates — not optional filler (user call 7/10). Everything is budgeted inside the 90-min cap.
+
+## Accessories
+
+**Mon**
+- **Single-arm DB press 3×8/side @ 40# + single-arm DB row 3×8/side @ 70#** — one superset block. Gates: press hit 40 × 8/9/8 on 5/13 → 45# when all three sets reach 8/side clean; row was 70 × 6/6/7 → build to 3×8/side at 70 first, then 75#.
+- **Pallof press 3×10/side @ 55#** — slow, square hips. Gate: 3×12/side clean → +5#.
+
+**Fri** (both after the deadlift work — never pre-fatigue the hip before top sets)
+- **Left-hip unilateral block:** 90/90 back-leg lift 3×10/side slow tempo + lateral band walk 3×12 steps/direction, heavy band. These are the movements already proven to produce DOMS — the change is structure: logged, progressed (ankle weight / heavier band when 3×10 clean on the left), left-right difference noted each week. Keep ≥48h between this and any home hip-strength session.
+- **Suitcase carry 4×50ft/side @ 55#** — level hips is the standard. Gate: all four lengths unbroken with no lean → +5#. Doubles as DL grip work.
 
 **Why asymmetric press days:** two heavy press days failed in April (125# 5×5 twice in 5 days → cut set, then 155 failed twice on 4/22). One heavy day + one sub-failure technique day is the proven configuration. The Friday press slot stays at RPE ≤ 7 no matter how good it feels.
 
@@ -38,7 +50,7 @@ Main lifts run solo. One optional accessory block per day, cuttable. 90-min cap 
 
 ## Watch items
 
-- Left hip / glute med ([[project_left_hip_glute_med]]): watch left-foot pressure under DL top sets — same drift signal as the squat. Optional 2–3 light abductor sets on Fridays; no test gate this cycle, so no pre-gate restriction.
+- Left hip / glute med ([[project_left_hip_glute_med]]): watch left-foot pressure under DL top sets — same drift signal as the squat. The Friday unilateral block above is the programmed fix — tracked and progressed, not maintenance.
 - Squat: unprogrammed — whatever CrossFit imposes is the only exposure. Don't add squat volume back unless raised.
 
 ## Arc
