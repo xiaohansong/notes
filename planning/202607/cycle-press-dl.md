@@ -52,6 +52,7 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 ## CrossFit rules
 
 - WODs get logged (user call 7/10, freeform is fine) — that's what makes the interference rules below executable instead of guesswork. Reading them is for fatigue management only, never for progression.
+- **Third press exposure rides on CrossFit:** when the gym's programming is visible, pick the WOD day with overhead pressing (push press / jerk / HSPU / DB press all count — the pattern is the point, strict specificity lives on Mon/Fri). Best placement is Tue–Thu, ≥48h before Monday's heavy 5×5. If the pressing WOD lands the day before Monday, expect hot RPE on the 5×5 and read the gate charitably — don't force it. Weeks where no pressing WOD shows up, fill the slot with a Wed micro-session: strict press 3×5 @ 90#, RPE ≤ 7, ~20 min, bar speed the goal.
 - Suggested placement if choice exists: Tue + Sat (right after barbell days → max recovery before the heavy slots). If not, autoregulate — never skip a heavy slot, cap it at RPE 8 and let the load land where it lands.
 - WOD deadlifts / presses / push presses don't count toward the ladders and don't trigger holds by themselves — the RPE cap absorbs the fatigue.
 - If the prior day's WOD was hinge-heavy, cut the Friday backoff sets, keep the top triple.
@@ -60,6 +61,7 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 
 - Left hip / glute med ([[project_left_hip_glute_med]]): watch left-foot pressure under DL top sets — same drift signal as the squat. The Friday unilateral block above is the programmed fix — tracked and progressed, not maintenance.
 - Squat: unprogrammed — whatever CrossFit imposes is the only exposure. Don't add squat volume back unless raised.
+- Bodyweight: 177# at cycle start after a trip-driven dip from 182 (vacation + mountaineering, acute not behavioral). Weekly check, Sat morning, consistent conditions. Expect partial rebound; green zone is flat-to-up toward ~180. Only a post-rebound slide paired with a stalling ladder makes intake the lever.
 
 ## Arc
 
