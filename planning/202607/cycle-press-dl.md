@@ -4,7 +4,7 @@
 
 - P0: strict press 1RM + deadlift 1RM. Two barbell days/wk (Mon + Fri), both lifts each day, one heavy slot per lift per week.
 - CrossFit ×2/wk covers P1/P2 (hypertrophy + conditioning). Treated as noise: WOD lifts never advance the ladders.
-- Baselines 7/10: DL e1RM ~170kg (160×2); press e1RM ~147# (130×4).
+- Baselines 7/10: DL e1RM ~170kg (160×2) — **rebuild toward a proven 425# / 193kg PR (Oct 2025)**, not new territory; press e1RM ~147# (130×4).
 - Week 1: Mon 7/13 press 5×5 @ 120# + DL 3×5 @ 120kg · Fri 7/17 DL top triple 155kg + press 4×6 @ 105#.
 - Reassess wk 4–5 (w/o 8/3–8/10). No 1RM test scheduled — test phase = 1–3 wk of doubles @ 92–95% first, timing decided at reassess.
 
@@ -44,7 +44,7 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 ## Progression gates (one lever at a time)
 
 - **Press 5×5 (Mon):** start 120#. All 25 reps ≤ RPE 8 → +2.5# next Mon. Missed rep → hold load, change nothing else. Should pass the May sticking point (125#) around wk 3.
-- **DL top triple (Fri):** start 155kg (gated by today's 150×3 + 160×2). Top triple ≤ RPE 8 with no left-foot drift → +2.5kg next Fri. Hesitation = bail to backoff — that's a read, not a miss.
+- **DL top triple (Fri):** start 155kg (gated by today's 150×3 + 160×2). Two-tier increment, rebuild pace: top triple ≤ RPE 8 with no left-foot drift → +2.5kg; ≤ RPE 7 and crisp → +5kg. The lift is re-grooving toward a proven 425# PR, so early weeks may move fast — the RPE read decides, not the calendar. Hesitation = bail to backoff — that's a read, not a miss.
 - **DL 3×5 (Mon):** hold 120kg wks 1–2; progresses only when the Friday ladder does (stays ~70%). Bar speed is the metric, not load.
 - **Press 4×6 (Fri):** hold 105# until the Mon ladder moves ≥ 5#, then track at ~72%.
 - At a stall, the lever menu is hold load / drop a rep / adjust backoff / tempo — pick per session signal, don't default to +weight on the same scheme.
@@ -65,3 +65,4 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 
 - Wk 1–3: build both ladders.
 - Wk 4–5: reassess (w/o 8/3–8/10). When a ladder tops out, that lift shifts to doubles @ 92–95% e1RM for 1–3 wk (CNS priming) before any 1RM day. Attempt-day target is RPE 9–9.5.
+- Cycle exit: rotate back to back squat as a featured lift (user intent, 7/10) — this cycle is the deadlift bridge before that. Timing decided at reassess, not before.
