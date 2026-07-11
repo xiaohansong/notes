@@ -22,6 +22,13 @@
 
 Main lifts run solo. Accessories are fixed work with their own progression gates — not optional filler (user call 7/10). Everything is budgeted inside the 90-min cap.
 
+## Warm-up (standard, both days — ~8–10 min)
+
+1. 3 min easy bike or row.
+2. Day-specific prep — Mon: band pull-aparts 2×15 + pass-throughs 2×10. Fri: 90/90 switches ×5/side + leg swings + dead hang 30s + cat-cow ×8.
+3. **Glute-med activation, both days:** light-band lateral walk 2×10 steps/direction + single-leg glute bridge 2×8/side, left side first. This is the *light* grade of the hip work — neural priming, no fatigue cost, safe daily. The *loaded* grade (heavy band, slow 3×10s) is Friday's accessory block after the pulls. Same movements, two grades, opposite placement — activation before, strength after.
+4. Bar ramp to the day's first working weight (spelled out in each day file).
+
 ## Accessories
 
 **Mon**
