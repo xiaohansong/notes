@@ -51,6 +51,7 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 
 ## CrossFit rules
 
+- WODs get logged (user call 7/10, freeform is fine) — that's what makes the interference rules below executable instead of guesswork. Reading them is for fatigue management only, never for progression.
 - Suggested placement if choice exists: Tue + Sat (right after barbell days → max recovery before the heavy slots). If not, autoregulate — never skip a heavy slot, cap it at RPE 8 and let the load land where it lands.
 - WOD deadlifts / presses / push presses don't count toward the ladders and don't trigger holds by themselves — the RPE cap absorbs the fatigue.
 - If the prior day's WOD was hinge-heavy, cut the Friday backoff sets, keep the top triple.
