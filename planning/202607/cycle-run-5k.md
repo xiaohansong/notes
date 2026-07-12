@@ -13,7 +13,7 @@
 
 RPE doesn't transfer from lifting to running for this athlete (no reps-in-reserve anchor, and a big aerobic engine mutes perceived strain — the 7/11 "felt easy" run averaged HR 168, only 6 bpm under the 7/7 all-out's 174). **HR is the effort authority for easy running; pace is the authority for reps.**
 
-Zones off **max 200 (Garmin, user 7/12)**, cross-anchored to the talk test: user holds whole sentences up to ~165, so that's the top of easy. The talk test is the real-time arbiter; HR is the log-time check. (Caveat: if the Garmin 200 ever proves to be a wrist-optical spike, the talk-test anchor still holds — zones were set to it, not to a percentage.)
+**True running max ≈ 190** — best estimate from the 7/7 all-out peaking at 187 with a stop at the peak (Garmin's stored 200 is likely inflated; auto-detected maxes often are). Zones are anchored to the **talk test**, not to a percentage: user holds whole sentences to ~165, so easy = avg ≤ 160 with a buffer. The talk test is the real-time arbiter; HR is the log-time check. Honest note: talk-at-165 against a ~190 max is a high conversational ceiling — the same perception pattern as the RPE readings — so the 160 cap is a pragmatic discipline target, not textbook Z2. If it starts feeling trivially easy mid-block, it tightens toward 155; it never loosens.
 
 | Zone | HR | Pace (secondary) | Governs |
 |---|---|---|---|
@@ -23,7 +23,7 @@ Zones off **max 200 (Garmin, user 7/12)**, cross-anchored to the talk test: user
 | Rep (5k pace) | n/a — HR lags too much on 2–3 min reps | **`9:30–9:45/mi`** | Run Q — pace is the prescription, HR logged after |
 | TT / benchmark | race it, expect ~175+ avg | even splits | wk 6 only |
 
-**Effort discipline is the running version of no-ego lifting.** Calibration facts: 7/7 (9:37/mi, avg HR 174 = 87% max) = all-out benchmark — note the avg is *low* for a true 10/10 at max 200, which says the legs capped that run before the engine did; expect fast early gains from tissue/mechanics, not cardio. 7/11 (10:28/mi, avg 168) = steady, a notch above easy. Easy at avg ≤ 160 will run slower than 10:28 at first — same-pace-at-lower-HR is the objective fitness signal between TTs.
+**Effort discipline is the running version of no-ego lifting.** Calibration facts: 7/7 (9:37/mi, avg 174, peak 187 at the stop) = full-system all-out benchmark, avg diluted by the ramp-in. 7/11 (10:28/mi, avg 168) = harder than easy — within ~11% of observed peak. The telling fact: **the athlete has never logged a run below ~155 HR — every run ever has lived in the 165+ band.** Run E's entire job is to open the sub-160 band that has never been trained; that's where the aerobic base behind the 8:50 goal gets built. Easy at avg ≤ 160 will run slower than 10:28 at first — same-pace-at-lower-HR is the objective fitness signal between TTs.
 
 ## Run Q — quality (5k-pace intervals)
 
