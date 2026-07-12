@@ -1,4 +1,4 @@
-# Fri 7/17
+# DL day — wk 1
 
 **TL;DR**
 
@@ -18,7 +18,7 @@
 
 ## Deadlift — top triple + backoff
 
-Build 100×5 → 120×3 → 140×3, then **155 × 3** top set. Gate: RPE ≤ 8 and no left-foot drift → 157.5 next Fri; ≤ RPE 7 and crisp → 160 instead (rebuild pace — old PR is 425#, the bar decides, not the calendar). Any hesitation on the third pull → rack it at 2 — same call as 160×2 on 7/10, correct read, good data. The ladder passes 160 at triple volume by ~wk 3, which is strictly stronger than today's double.
+Build 100×5 → 120×3 → 140×3, then **155 × 3** top set. Gate: RPE ≤ 8 and no left-foot drift → 157.5 next DL day; ≤ RPE 7 and crisp → 160 instead (rebuild pace — old PR is 425#, the bar decides, not the calendar). Any hesitation on the third pull → rack it at 2 — same call as 160×2 on 7/10, correct read, good data. The ladder passes 160 at triple volume by ~wk 3, which is strictly stronger than today's double.
 
 Backoff 2×3 @ 140kg. If the prior day's WOD was hinge-heavy, cut the backoffs, keep the top set.
 
@@ -47,4 +47,4 @@ Level hips is the standard — no lean, no hitching. Gate: all four lengths unbr
 
 ## Logging
 
-workout/202607/20260717 — note top-triple RPE and foot pressure; press just needs loads/reps; hip block gets reps per side + left-right difference.
+workout/ file for whatever date this runs — note top-triple RPE and foot pressure; press just needs loads/reps; hip block gets reps per side + left-right difference.
