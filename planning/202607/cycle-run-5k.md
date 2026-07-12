@@ -2,7 +2,8 @@
 
 **TL;DR**
 
-- Goal: improve 5k pace. Current predicted 5k ≈ **30:05 (~9:41/mi)** — Riegel off the 7/7 benchmark (2.75 mi @ 9:37, all-out).
+- **Season goal (2026): match or beat last year's 8:50/mi 5k (~27:27)** — proven fitness, so this is a rebuild, not new territory. Reached over 2–3 blocks; this block's job is block 1.
+- Current predicted 5k ≈ **30:05 (~9:41/mi)** — Riegel off the 7/7 benchmark (2.75 mi @ 9:37, all-out). Gap to season goal: ~2:40 (~50s/mi).
 - 2 runs/wk, no fixed days: **Run Q** (5k-pace intervals, gated ladder) + **Run E** (easy volume, 35→50 min).
 - 6-week block → **wk 6: 5k time trial**, target band `29:00–29:45` (9:20–9:35/mi).
 - Training paces: reps `9:30–9:45/mi` · easy `11:15–12:15/mi` · strides = build to rep pace, 20s.
@@ -51,7 +52,7 @@ Conversational the whole way, RPE ≤ 6. No pace floor — on tired legs, slower
 ## Wk 6 — 5k time trial
 
 - Flat course, GPS-measured is fine. Fresh legs: no DL-heavy session or leg-heavy WOD within 48h prior.
-- Target band `29:00–29:45`. Even pacing — first mile no faster than 9:30 no matter how good it feels; the 7/7 benchmark died at 2.75 mi partly on pacing.
+- Target band `29:00–29:45`. This is the block target, not the season goal — 8:50s in week 6 would be an ego split; the TT's job is to bank ~1:00 and recalibrate paces for block 2. Even pacing — first mile no faster than 9:30 no matter how good it feels; the 7/7 benchmark died at 2.75 mi partly on pacing.
 - This is the block's one race effort: RPE 9.5–10 is correct here and only here.
 - If the lifting reassess (wk 4–5) spawns a 1RM test week, the TT moves — never stack the two peak weeks.
 
@@ -71,8 +72,9 @@ Six sessions per week: Lift press-day, Lift DL-day, Run Q, Run E, CrossFit ×2. 
 - **Left hip / glute med** ([[project_left_hip_glute_med]]): running is a brand-new repetitive unilateral load for it. Outer-hip niggle lasting > 2 days, or left-foot drift showing up in DL top sets after run weeks — either one gets flagged at the weekly note before progressing Run Q.
 - **Run E effort creep**: if logged easy runs keep landing at RPE 7+, that's the block's failure mode — call it out.
 
-## Arc
+## Arc — season view (goal: ≤ 27:27 in 2026)
 
-- Wk 1–5: build the rep ladder + easy volume, retest nothing.
-- Wk 6: sharpener + 5k TT (~w/o 8/17, floats with the lifting reassess).
-- Cycle exit: rerun Riegel off the TT, decide next block. The obvious future lever is a third short easy run — not this cycle.
+- **Block 1 (this one), wk 1–6:** build the rep ladder + easy volume, retest nothing before the TT. TT ~w/o 8/17 (floats with the lifting reassess), target `29:00–29:45`.
+- **Block 2 (fall):** paces recalibrated off the block-1 TT. This is where the **third short easy run** enters — at 2 runs/wk the aerobic engine, not the legs, becomes the ceiling on the way to 8:50s. Decision at block-1 exit, not mid-block.
+- **Block 3 (late fall):** sharpen and attempt sub-27:27 when a TT or the interval log puts it in range — realistically Oct–Dec.
+- Same shape as the DL rebuild: proven capability, detrained, gates decide the pace of return — the calendar doesn't. If block-1 TT lands under 29:00, the season goal moves early; if it lands over 29:45, block 2 repeats the interval structure before adding anything.
