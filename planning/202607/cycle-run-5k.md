@@ -13,16 +13,17 @@
 
 RPE doesn't transfer from lifting to running for this athlete (no reps-in-reserve anchor, and a big aerobic engine mutes perceived strain — the 7/11 "felt easy" run averaged HR 168, only 6 bpm under the 7/7 all-out's 174). **HR is the effort authority for easy running; pace is the authority for reps.**
 
-Provisional zones off est. max ~188 (Tanaka for age 33, consistent with 174 avg on a ~26-min all-out). Refine when peak HR from the 7/7 run + resting HR are known.
+Zones off **max 200 (Garmin, user 7/12)**, cross-anchored to the talk test: user holds whole sentences up to ~165, so that's the top of easy. The talk test is the real-time arbiter; HR is the log-time check. (Caveat: if the Garmin 200 ever proves to be a wrist-optical spike, the talk-test anchor still holds — zones were set to it, not to a percentage.)
 
 | Zone | HR | Pace (secondary) | Governs |
 |---|---|---|---|
-| Easy | **< 150 avg, cap 155 on hills** | whatever results | Run E — HR is the prescription |
-| Tempo (reference) | 160–170 | ~`10:15–10:30/mi` | nothing in this block — the 7/11 run (168) sat here |
+| Easy | **avg ≤ 160, momentary ≤ 168 on hills** — whole sentences throughout | whatever results | Run E — HR + talk test are the prescription |
+| Steady (no programmed use) | 162–172 | — | the 7/11 run (avg 168) sat here — just above easy |
+| Tempo (reference) | ~172–180 | ~`10:15–10:30/mi` | nothing in this block |
 | Rep (5k pace) | n/a — HR lags too much on 2–3 min reps | **`9:30–9:45/mi`** | Run Q — pace is the prescription, HR logged after |
-| TT / benchmark | 172+ | race it | wk 6 only |
+| TT / benchmark | race it, expect ~175+ avg | even splits | wk 6 only |
 
-**Effort discipline is the running version of no-ego lifting.** Calibration facts: 7/7 (9:37/mi, HR 174) = all-out benchmark; 7/11 (10:28/mi, HR 168) = tempo, not easy, whatever it felt like. Easy pace at HR < 150 will be substantially slower than 10:28 at first — that's the point, and same-pace-at-lower-HR is the objective fitness signal between TTs.
+**Effort discipline is the running version of no-ego lifting.** Calibration facts: 7/7 (9:37/mi, avg HR 174 = 87% max) = all-out benchmark — note the avg is *low* for a true 10/10 at max 200, which says the legs capped that run before the engine did; expect fast early gains from tissue/mechanics, not cardio. 7/11 (10:28/mi, avg 168) = steady, a notch above easy. Easy at avg ≤ 160 will run slower than 10:28 at first — same-pace-at-lower-HR is the objective fitness signal between TTs.
 
 ## Run Q — quality (5k-pace intervals)
 
@@ -52,7 +53,7 @@ Time-based reps, no track needed. All reps at `9:30–9:45/mi`, recoveries are a
 | 5 | 50 min | 4 × 20s |
 | 6 | **5k time trial** (replaces the easy run) | — |
 
-**HR < 150 average is the prescription** (provisional cap — see zones). Conversational the whole way is the backup check when the watch is off. No pace floor — on tired legs, slower at the same HR is correct and expected. Duration is the only variable that progresses; pace and HR caps never do.
+**Avg HR ≤ 160 and whole sentences the entire way is the prescription** (zones table above). If talking breaks, slow down regardless of what HR shows. No pace floor — on tired legs, slower at the same HR is correct and expected. Duration is the only variable that progresses; pace and HR caps never do.
 
 ## Wk 6 — 5k time trial
 
@@ -75,7 +76,7 @@ Six sessions per week: Lift press-day, Lift DL-day, Run Q, Run E, CrossFit ×2. 
 ## Watch items
 
 - **Left hip / glute med** ([[project_left_hip_glute_med]]): running is a brand-new repetitive unilateral load for it. Outer-hip niggle lasting > 2 days, or left-foot drift showing up in DL top sets after run weeks — either one gets flagged at the weekly note before progressing Run Q.
-- **Run E effort creep**: now objectively defined — easy runs logging avg HR > 155 are the block's failure mode; call it out on sight. RPE is no longer the gauge for runs.
+- **Run E effort creep**: now objectively defined — easy runs logging avg HR > 165 are the block's failure mode; call it out on sight. RPE is no longer the gauge for runs.
 
 ## Arc — season view (goal: ≤ 27:27 in 2026)
 
