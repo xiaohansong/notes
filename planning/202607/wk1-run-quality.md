@@ -27,4 +27,4 @@
 
 ## Logging
 
-workout/ file for whatever date this runs — pace per rep, RPE of the last rep (the gate reads it), any outer-hip signal.
+workout/ file for whatever date this runs — pace per rep, last-rep feel (the gate reads it: "could have done 2 more" advances, "barely finished" repeats), avg HR for the session (trend data only — never pace reps by HR, it lags 2:00 reps too much), any outer-hip signal.

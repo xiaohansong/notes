@@ -2,8 +2,8 @@
 
 **TL;DR**
 
-- **35 min easy, `11:15–12:15/mi`, RPE ≤ 6** — conversational the whole way
-- Flex session: slot it anywhere, day after DL triples included — as long as it stays easy
+- **35 min easy, avg HR < 150** (cap 155 on hills) — pace is whatever results, conversational the whole way
+- Flex session: slot it anywhere, day after DL triples included — as long as the HR cap holds
 
 ## Warm-up
 
@@ -11,12 +11,12 @@ None needed — first 5 min deliberately slower than the band, then settle in.
 
 ## Notes
 
-Calibration point: the 7/11 run (10:28 @ RPE 7) was a tempo, not an easy run. This will feel too slow — that's correct. Pace never progresses on this day; duration does (40 min next week). On tired legs, slower than 12:15 is the right call, not a bad session.
+HR governs this day, not pace and not RPE — the 7/11 run averaged 168, only 6 bpm under the all-out benchmark's 174, so "felt easy" is not the gauge. Under HR 150 the pace will be substantially slower than 10:28 at first — that's correct. Pace never progresses on this day; duration does (40 min next week). The pace that HR < 150 produces IS the fitness readout: watch it drop over the block at the same cap.
 
 ## What NOT to do
 
-- No drifting to 10:30s because the legs feel good — this run's job is to make Run Q productive, not to prove fitness.
+- No riding HR 155–165 because the legs feel good — this run's job is to make Run Q productive, not to prove fitness.
 
 ## Logging
 
-workout/ file for whatever date this runs — duration, avg pace, RPE. If it logs at RPE 7+, say so; easy-day effort creep is this block's failure mode.
+workout/ file for whatever date this runs — duration, avg pace, **avg HR**. Avg HR > 155 = effort creep, this block's failure mode; log it honestly and it gets called out.

@@ -9,15 +9,20 @@
 - Training paces: reps `9:30–9:45/mi` · easy `11:15–12:15/mi` · strides = build to rep pace, 20s.
 - Sequencing rules below are the contract with the lifting cycle — the two goals are co-equal and must not interfere.
 
-## Training paces
+## Training zones — HR governs easy, pace governs reps
 
-| Zone | Pace | Feel |
-|---|---|---|
-| Rep (5k pace) | `9:30–9:45/mi` | Hard but repeatable, RPE ≤ 8 on the last rep |
-| Tempo (reference only) | ~`10:15–10:30/mi` | The 7/11 run (10:28 @ RPE 7) sat here |
-| Easy | `11:15–12:15/mi` | Conversational, RPE ≤ 6, nose-breathable |
+RPE doesn't transfer from lifting to running for this athlete (no reps-in-reserve anchor, and a big aerobic engine mutes perceived strain — the 7/11 "felt easy" run averaged HR 168, only 6 bpm under the 7/7 all-out's 174). **HR is the effort authority for easy running; pace is the authority for reps.**
 
-**Pace discipline is the running version of no-ego lifting.** The 7/7 run was 10/10 — that's a benchmark, not a training day; there are no 10/10s inside this block except the wk-6 TT. And the 7/11 "easy" run was actually a tempo — genuinely easy will feel too slow. That's the point: easy days buy the recovery that makes rep days productive.
+Provisional zones off est. max ~188 (Tanaka for age 33, consistent with 174 avg on a ~26-min all-out). Refine when peak HR from the 7/7 run + resting HR are known.
+
+| Zone | HR | Pace (secondary) | Governs |
+|---|---|---|---|
+| Easy | **< 150 avg, cap 155 on hills** | whatever results | Run E — HR is the prescription |
+| Tempo (reference) | 160–170 | ~`10:15–10:30/mi` | nothing in this block — the 7/11 run (168) sat here |
+| Rep (5k pace) | n/a — HR lags too much on 2–3 min reps | **`9:30–9:45/mi`** | Run Q — pace is the prescription, HR logged after |
+| TT / benchmark | 172+ | race it | wk 6 only |
+
+**Effort discipline is the running version of no-ego lifting.** Calibration facts: 7/7 (9:37/mi, HR 174) = all-out benchmark; 7/11 (10:28/mi, HR 168) = tempo, not easy, whatever it felt like. Easy pace at HR < 150 will be substantially slower than 10:28 at first — that's the point, and same-pace-at-lower-HR is the objective fitness signal between TTs.
 
 ## Run Q — quality (5k-pace intervals)
 
@@ -47,7 +52,7 @@ Time-based reps, no track needed. All reps at `9:30–9:45/mi`, recoveries are a
 | 5 | 50 min | 4 × 20s |
 | 6 | **5k time trial** (replaces the easy run) | — |
 
-Conversational the whole way, RPE ≤ 6. No pace floor — on tired legs, slower is correct. Duration is the only variable that progresses; pace never does.
+**HR < 150 average is the prescription** (provisional cap — see zones). Conversational the whole way is the backup check when the watch is off. No pace floor — on tired legs, slower at the same HR is correct and expected. Duration is the only variable that progresses; pace and HR caps never do.
 
 ## Wk 6 — 5k time trial
 
@@ -70,7 +75,7 @@ Six sessions per week: Lift press-day, Lift DL-day, Run Q, Run E, CrossFit ×2. 
 ## Watch items
 
 - **Left hip / glute med** ([[project_left_hip_glute_med]]): running is a brand-new repetitive unilateral load for it. Outer-hip niggle lasting > 2 days, or left-foot drift showing up in DL top sets after run weeks — either one gets flagged at the weekly note before progressing Run Q.
-- **Run E effort creep**: if logged easy runs keep landing at RPE 7+, that's the block's failure mode — call it out.
+- **Run E effort creep**: now objectively defined — easy runs logging avg HR > 155 are the block's failure mode; call it out on sight. RPE is no longer the gauge for runs.
 
 ## Arc — season view (goal: ≤ 27:27 in 2026)
 
