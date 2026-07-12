@@ -17,7 +17,7 @@ RPE doesn't transfer from lifting to running for this athlete (no reps-in-reserv
 
 | Zone | HR | Pace (secondary) | Governs |
 |---|---|---|---|
-| Easy | **avg ≤ 160, momentary ≤ 168 on hills** — whole sentences throughout | whatever results | Run E — HR + talk test are the prescription |
+| Easy | **live ceiling 162** — sustained cross → walk until ~155, resume; brief hill crests to 168 OK. Post-run audit: **avg ≤ 160** | whatever results | Run E — live ceiling + talk test in-run; avg is the after-run check |
 | Steady (no programmed use) | 162–172 | — | the 7/11 run (avg 168) sat here — just above easy |
 | Tempo (reference) | ~172–180 | ~`10:15–10:30/mi` | nothing in this block |
 | Rep (5k pace) | n/a — HR lags too much on 2–3 min reps | **`9:30–9:45/mi`** | Run Q — pace is the prescription, HR logged after |
@@ -53,7 +53,7 @@ Time-based reps, no track needed. All reps at `9:30–9:45/mi`, recoveries are a
 | 5 | 50 min | 4 × 20s |
 | 6 | **5k time trial** (replaces the easy run) | — |
 
-**Avg HR ≤ 160 and whole sentences the entire way is the prescription** (zones table above). If talking breaks, slow down regardless of what HR shows. No pace floor — on tired legs, slower at the same HR is correct and expected. Duration is the only variable that progresses; pace and HR caps never do.
+**In-run rule (all you can act on live): HR stays under 162.** Sustained cross → walk/shuffle until it reads ~155, resume. Brief hill crests to 168 are fine if you back off over the top. Ignore 1–2s spikes — wrist HR throws artifacts; react to 5–10s of sustained reading. Set a Garmin high-HR alert at 162 on the run activity so the watch does the policing. **Post-run audit: avg ≤ 160** — riding the ceiling all run fails the audit even if you never crossed it. If talking breaks, slow down regardless of what HR shows. No pace floor — on tired legs, slower at the same HR is correct and expected. Duration is the only variable that progresses; the ceilings never do.
 
 ## Wk 6 — 5k time trial
 

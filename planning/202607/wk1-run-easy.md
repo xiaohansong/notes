@@ -2,12 +2,13 @@
 
 **TL;DR**
 
-- **35 min easy, avg HR ≤ 160** (momentary ≤ 168 on hills) — whole sentences the entire way; pace is whatever results
-- Flex session: slot it anywhere, day after DL triples included — as long as the cap holds
+- **35 min easy — live rule: HR under `162`** (Garmin high-HR alert at 162; sustained cross → walk to ~155, resume; hill crests to 168 OK)
+- Whole sentences the entire way; pace is whatever results. Post-run check: avg ≤ 160
+- Flex session: slot it anywhere, day after DL triples included — as long as the ceiling holds
 
 ## Warm-up
 
-None needed — first 5 min deliberately slower than the band, then settle in.
+None needed — first 5 min deliberately slow (HR will read 130s–140s; that's the ramp, not a problem), then settle in under the ceiling.
 
 ## Notes
 
