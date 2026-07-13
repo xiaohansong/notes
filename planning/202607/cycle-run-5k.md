@@ -38,7 +38,9 @@ Time-based reps, no track needed. All reps at `9:30–9:45/mi`, recoveries are a
 | 5 | 6 × 3:00 | 2:30 jog | 18 min |
 | 6 | 4 × 1:00 sharpener, full recovery | — | taper |
 
-**Gate (one lever at a time, same as the barbell ladders):** advance to next week's line only when all reps land in the pace band AND the last rep is RPE ≤ 8. Reps fading > 10–15s/mi at the back end, or RPE 9 territory → repeat the week. Cutting a rep when pace dies = correct read, not a failed session.
+**Execution tolerance:** judge reps by lap average (lap button each rep) — `9:25–9:50` counts as in-band; instantaneous GPS pace is noise. Wk-1 scatter is expected; shrinking scatter is trained. The ladder progresses volume at pace; **pace itself moves only at checkpoints** (CP1 can tighten the band to ~9:20–9:35 if every rep lands in band with 3–4 clearly left).
+
+**Gate (one lever at a time, same as the barbell ladders):** advance to next week's line only when all reps land in the band AND the last rep finishes with reserve ("could do 2 more"). Reps fading > 10–15s/mi at the back end, or barely-finished territory → repeat the week. Cutting a rep when pace dies = correct read, not a failed session.
 
 **Warm-up (~12 min):** 10 min easy jog → single-leg glute bridge 2×8/side, left first (same light-grade hip priming as lift days) → 4 × 20s strides building to rep pace, walk back. **Cool-down:** 5 min jog/walk.
 
@@ -97,7 +99,7 @@ Pass = Run Q advanced 6→7 reps on schedule, easy runs passed the HR audit, hip
 - `< 28:15` → estimates were wrong in the good direction; full recalibration, September could target ~27:30, and sub-25 gets a serious winter-2026 conversation.
 - For the record, since the rule should exist even for outcomes I don't expect: sub-25 in September re-enters discussion only on a TT **under 26:30** — that's what "the current estimate was off by 3.5 minutes" looks like. Anything slower, the September race is run for its band above, not for 25.
 
-**CP4 — the September race (if one is scheduled; date needed).** Runs mid-block-2 at whatever target CP3 assigned. Early-September vs late-September is worth ~a full minute of fitness — confirm the date.
+**CP4 — the September company race.** Annual, date TBA, likely mid-to-late September (favorable — late Sept buys nearly the full block-2 build). Runs at whatever target CP3 assigned. Flag the date the moment it's announced; early vs late is worth ~a full minute.
 
 ## Arc — season view (goal: ≤ 27:27 in 2026; sub-25:00 parked as the 2027 objective, reviewed at CP3)
 

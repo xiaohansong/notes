@@ -14,7 +14,7 @@
 
 ## Work — 6 × 2:00 on / 2:00 easy jog
 
-**Notes:** The band is the prescription — no 9:00 reps because it's day one and legs are fresh; even reps 1 through 6 is the skill being trained. Walking the first 30s of a recovery is fine. If pace dies > 15s/mi on a rep, end the session there — that's a read, not a miss; the gate just doesn't advance.
+**Notes:** Execution tolerance: hit lap at each rep start, judge by **lap average** — anywhere `9:25–9:50` counts as in-band. Ignore instantaneous pace (GPS noise); one glance ~45s in, one adjustment, then run by feel. Scattered reps in wk 1 are expected — shrinking scatter is part of the training. The band is the prescription — no 9:00 reps because legs are fresh; the ladder gets much harder (8 reps wk 3, 3:00 reps wk 4) and a pace that barely survives today breaks mid-block. **Valve:** all reps in band + last rep with 3–4 clearly left → log exactly that, and CP1 (7/26) tightens the band to ~9:20–9:35. Pace moves at checkpoints, not mid-rep. Walking the first 30s of a recovery is fine. If pace dies > 15s/mi on a rep, end the session there — that's a read, not a miss; the gate just doesn't advance.
 
 ## Cool-down
 
