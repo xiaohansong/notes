@@ -2,11 +2,11 @@
 
 **TL;DR**
 
-- Featured lifts: strict press 1RM + deadlift 1RM. Two barbell days/wk — **press day** and **DL day**, both lifts each day, one heavy slot per lift per week. No fixed weekdays this cycle: slot by the sequencing rules in `cycle-run-5k.md`.
+- Featured lifts: strict press + deadlift — **training lifts, no outcome goals (user call 7/12)**: the ladders and gates run exactly as written, but nothing here chases a test day. Two barbell days/wk — **press day** and **DL day**, both lifts each day, one heavy slot per lift per week. No fixed weekdays this cycle: slot by the sequencing rules in `cycle-run-5k.md`.
 - Runs alongside the 5k block (2 runs/wk) as a **co-equal goal** — neither yields to the other; the sequencing contract keeps them out of each other's way. CrossFit ×2/wk covers hypertrophy + conditioning, treated as noise: WOD lifts never advance the ladders.
 - Baselines 7/10: DL e1RM ~170kg (160×2) — **rebuild toward a proven 425# / 193kg PR (Oct 2025)**, not new territory; press e1RM ~147# (130×4).
 - Week 1 session files: `wk1-lift-press.md` (press 5×5 @ 120# + DL 3×5 @ 120kg) · `wk1-lift-dl.md` (DL top triple 155kg + press 4×6 @ 105#).
-- Reassess wk 4–5 (early–mid August). No 1RM test scheduled — test phase = 1–3 wk of doubles @ 92–95% first, timing decided at reassess.
+- Reassess wk 4–5 (early–mid August): the decision is **when to rotate to the squat cycle** (goal: **405# by end of 2026**, off the 390 banked 5/19). Default = no press/DL 1RM test — bank e1RM progress and rotate; testing only if the athlete asks (doubles phase first, always).
 
 ## Structure
 
@@ -68,5 +68,6 @@ Main lifts run solo. Accessories are fixed work with their own progression gates
 ## Arc
 
 - Wk 1–3: build both ladders.
-- Wk 4–5: reassess (early–mid August). When a ladder tops out, that lift shifts to doubles @ 92–95% e1RM for 1–3 wk (CNS priming) before any 1RM day. Attempt-day target is RPE 9–9.5. If a test week materializes, it does not share a week with the 5k time trial (`cycle-run-5k.md`).
-- Cycle exit: rotate back to back squat as a featured lift (user intent, 7/10) — this cycle is the deadlift bridge before that. Timing decided at reassess, not before.
+- Wk 4–5: reassess (early–mid August). Default exit: bank e1RM progress on both lifts, no test week — press/DL carry no outcome goals. If the athlete asks to test anyway: doubles @ 92–95% for 1–3 wk first, attempt-day RPE 9–9.5, never the same week as the 5k TT (`cycle-run-5k.md`).
+- Cycle exit: rotate to **back squat as the featured lift — 405# by end of 2026** (goal set 7/12; PR 390 banked 5/19, so +15# on a proven base over a ~14–16 wk fall cycle, attempt window early–mid Dec after a doubles phase). This cycle is the bridge: the Friday hip block is the squat-return prep, and hip status at reassess gates the rotation.
+- Known Q4 collision to design around at exit, not now: squat cycle and run blocks 2–3 (27:27 attempt, possible 3rd run day) peak together, both leg-heavy, co-equal. The sequencing contract extends — squat-heavy day ↔ Run Q ≥ 48h, same as today's DL rule.
