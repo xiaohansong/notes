@@ -92,19 +92,19 @@ Pass = Run Q advanced 6→7 reps on schedule, easy runs passed the HR audit, hip
 - Flat easy pace but gates passing → no change, TT target stays `29:00–29:45`.
 - Gates failing or hip flagged → TT target widens, volume holds, nothing progresses until two clean weeks.
 
-**CP3 — the block-1 TT (wk 6, ~w/o 8/17). The goal-setting event.** September target set by result:
-- `≥ 29:45` → block 2 repeats the interval structure; September target `28:45–29:15`; sub-25 is off the table for 2026, full stop.
-- `29:00–29:45` (predicted) → on track; September target **sub-28:30**; season goal 27:27 by Nov–Dec stands; sub-25 = 2027 objective.
-- `28:15–29:00` → ahead of curve; September target sub-28:00; season goal accelerates to ~27:00 by November; sub-25 pulls toward early 2027, third-run decision made immediately.
-- `< 28:15` → estimates were wrong in the good direction; full recalibration, September could target ~27:30, and sub-25 gets a serious winter-2026 conversation.
-- For the record, since the rule should exist even for outcomes I don't expect: sub-25 in September re-enters discussion only on a TT **under 26:30** — that's what "the current estimate was off by 3.5 minutes" looks like. Anything slower, the September race is run for its band above, not for 25.
+**CP3 — the block-1 TT (wk 6, ~w/o 8/17). The goal-setting event.** Race target set by result:
+- `≥ 29:45` → block 2 repeats the interval structure; race target `28:45–29:15`.
+- `29:00–29:45` (predicted) → on track; race target **sub-28:30**.
+- `28:15–29:00` → ahead of curve; race target sub-28:00; third-run decision made immediately.
+- `< 28:15` → the fast-responder profile from 2025 is back; full recalibration, race target ~27:30, and **matching last year's 27:27 on race day goes live**.
+- For the record: sub-25 talk re-enters only on a TT **under 26:30**. Anything slower, the race is run for its band above.
 
 **CP4 — the September company race.** Annual, date TBA, likely mid-to-late September (favorable — late Sept buys nearly the full block-2 build). Runs at whatever target CP3 assigned. Flag the date the moment it's announced; early vs late is worth ~a full minute.
 
-## Arc — season view (goal: ≤ 27:27 in 2026; sub-25:00 parked as the 2027 objective, reviewed at CP3)
+## Arc — race view (horizon: the September company race, then running winds down)
 
 - **Block 1 (this one), wk 1–6:** build the rep ladder + easy volume, retest nothing before the TT. TT ~w/o 8/17 (floats with the lifting reassess), target per CP2.
-- **Block 2 (fall):** paces recalibrated off CP3. This is where the **third short easy run** enters — at 2 runs/wk the aerobic engine, not the legs, becomes the ceiling on the way to 8:50s. Decision at CP3, not mid-block. Contains the September race (CP4) if scheduled.
-- **Block 3 (late fall):** sharpen and attempt sub-27:27 when a TT or the interval log puts it in range — realistically Oct–Dec.
-- **Beyond (2027): sub-25:00.** Requires 8:03/mi — ~47s/mi past last year's peak — and realistically 3–4 runs/wk, which is a structural trade against the co-equal lifting goal. That decision gets made at season end with 27:27 banked, not before.
-- Same shape as the DL rebuild: proven capability, detrained, gates decide the pace of return — the calendar doesn't.
+- **Block 2 (TT → race, ~4–6 wk):** paces recalibrated off CP3. The **third short easy run** enters here if CP3 calls for it — with the race as the finish line, the short-horizon cost is worth it. Ends at CP4, the race.
+- **After the race (user call, 7/12): running doesn't matter — no block 3.** Maintenance/optional running only; the fall belongs to the squat cycle and the 405 goal. Race day IS the season for the 5k.
+- **Adaptation wildcard (recorded 7/12):** in 2025 the athlete reached 8:50 pace after ~1 month at 1 run/wk — a fast-responder profile, consistent with the big-engine/tissue-governed picture. Not a reason to raise targets today; it's exactly what the CP bands exist to detect. If it shows up, the targets move themselves.
+- sub-25: parked indefinitely — only relevant if running outlives the race, which is the athlete's call to reopen, not a scheduled decision.
