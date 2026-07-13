@@ -78,9 +78,31 @@ Six sessions per week: Lift press-day, Lift DL-day, Run Q, Run E, CrossFit ×2. 
 - **Left hip / glute med** ([[project_left_hip_glute_med]]): running is a brand-new repetitive unilateral load for it. Outer-hip niggle lasting > 2 days, or left-foot drift showing up in DL top sets after run weeks — either one gets flagged at the weekly note before progressing Run Q.
 - **Run E effort creep**: now objectively defined — easy runs logging avg HR > 165 are the block's failure mode; call it out on sight. RPE is no longer the gauge for runs.
 
-## Arc — season view (goal: ≤ 27:27 in 2026)
+## Checkpoints — goals move here, and only here
 
-- **Block 1 (this one), wk 1–6:** build the rep ladder + easy volume, retest nothing before the TT. TT ~w/o 8/17 (floats with the lifting reassess), target `29:00–29:45`.
-- **Block 2 (fall):** paces recalibrated off the block-1 TT. This is where the **third short easy run** enters — at 2 runs/wk the aerobic engine, not the legs, becomes the ceiling on the way to 8:50s. Decision at block-1 exit, not mid-block.
+Standing rule: **goals adjust at checkpoints, per the written rules below, one band at a time.** Never mid-block, never off a single good session — a hot 8:30 finish is a data point for the effort-creep file, not for the goal. Weekly notes read three numbers (easy pace at cap, Run Q gate result, hip status) but don't touch goals.
+
+**CP1 — Sun 7/26 (end of wk 2). Execution check, no goal moves.**
+Pass = Run Q advanced 6→7 reps on schedule, easy runs passed the HR audit, hip quiet. Fail on any → fix execution before anything else matters.
+
+**CP2 — Sun 8/9 (end of wk 4, shares the lifting reassess). First calibration.**
+- Easy pace at cap improved ≥ 20s/mi from the `11:10 @ ~156` baseline AND Run Q gates passed on schedule → TT target narrows to the optimistic half (`29:00–29:20`).
+- Flat easy pace but gates passing → no change, TT target stays `29:00–29:45`.
+- Gates failing or hip flagged → TT target widens, volume holds, nothing progresses until two clean weeks.
+
+**CP3 — the block-1 TT (wk 6, ~w/o 8/17). The goal-setting event.** September target set by result:
+- `≥ 29:45` → block 2 repeats the interval structure; September target `28:45–29:15`; sub-25 is off the table for 2026, full stop.
+- `29:00–29:45` (predicted) → on track; September target **sub-28:30**; season goal 27:27 by Nov–Dec stands; sub-25 = 2027 objective.
+- `28:15–29:00` → ahead of curve; September target sub-28:00; season goal accelerates to ~27:00 by November; sub-25 pulls toward early 2027, third-run decision made immediately.
+- `< 28:15` → estimates were wrong in the good direction; full recalibration, September could target ~27:30, and sub-25 gets a serious winter-2026 conversation.
+- For the record, since the rule should exist even for outcomes I don't expect: sub-25 in September re-enters discussion only on a TT **under 26:30** — that's what "the current estimate was off by 3.5 minutes" looks like. Anything slower, the September race is run for its band above, not for 25.
+
+**CP4 — the September race (if one is scheduled; date needed).** Runs mid-block-2 at whatever target CP3 assigned. Early-September vs late-September is worth ~a full minute of fitness — confirm the date.
+
+## Arc — season view (goal: ≤ 27:27 in 2026; sub-25:00 parked as the 2027 objective, reviewed at CP3)
+
+- **Block 1 (this one), wk 1–6:** build the rep ladder + easy volume, retest nothing before the TT. TT ~w/o 8/17 (floats with the lifting reassess), target per CP2.
+- **Block 2 (fall):** paces recalibrated off CP3. This is where the **third short easy run** enters — at 2 runs/wk the aerobic engine, not the legs, becomes the ceiling on the way to 8:50s. Decision at CP3, not mid-block. Contains the September race (CP4) if scheduled.
 - **Block 3 (late fall):** sharpen and attempt sub-27:27 when a TT or the interval log puts it in range — realistically Oct–Dec.
-- Same shape as the DL rebuild: proven capability, detrained, gates decide the pace of return — the calendar doesn't. If block-1 TT lands under 29:00, the season goal moves early; if it lands over 29:45, block 2 repeats the interval structure before adding anything.
+- **Beyond (2027): sub-25:00.** Requires 8:03/mi — ~47s/mi past last year's peak — and realistically 3–4 runs/wk, which is a structural trade against the co-equal lifting goal. That decision gets made at season end with 27:27 banked, not before.
+- Same shape as the DL rebuild: proven capability, detrained, gates decide the pace of return — the calendar doesn't.
