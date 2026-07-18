@@ -3,6 +3,7 @@
   "featured_lifts": [
     "back_squat",
     "strict_press",
+    "deadlift",
     "bench_press",
     "weighted_pullup",
     "barbell_row"
@@ -30,6 +31,11 @@
     "incline-supported db row": "db_row",
     "rdl": "rdl",
     "deadlift": "deadlift",
+    "split jerk": "split_jerk",
+    "power snatch": "power_snatch",
+    "v-ups": "v_up",
+    "v-up": "v_up",
+    "v ups": "v_up",
     "bulgarian split squat": "bss",
     "goblet squat": "goblet_squat",
     "kb goblet squat": "goblet_squat",
@@ -79,7 +85,10 @@
     "kb_swing": "KB swing",
     "single_side_dl": "Single-side DL",
     "death_march": "Death march",
-    "carry": "Suitcase carry"
+    "carry": "Suitcase carry",
+    "split_jerk": "Split jerk",
+    "power_snatch": "Power snatch",
+    "v_up": "V-up"
   },
   "pattern_buckets": {
     "squat": ["back_squat", "front_squat", "bss", "goblet_squat"],
