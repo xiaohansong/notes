@@ -2,8 +2,8 @@
 
 **TL;DR**
 
-- Back squat **305# × 5 × 5**, E3:00 — your own prescription, kept. ~80% TM, expect RPE 7–7.5
-- This one is correctly calibrated. Run it as written
+- Back squat **305# × 5 × 5**, E3:00 — your own prescription, kept. 77% of e1RM, expect RPE 6.5–7
+- Correctly placed for a re-entry week. Run it as written
 - Banded lateral walk 3 × 20 steps/direction + suitcase carry 70# × 4 × 50 ft/side
 - Log RPE per set. If set 5 reads 8.5+, that's residual fatigue from the 9.5 session, not a load error
 
@@ -17,14 +17,14 @@
 
 ## Back squat — 305# × 5 × 5, E3:00
 
-Run solo. 79.8% of the measured 382 e1RM → RPE 7 territory, 25 reps.
+Run solo. 77.2% of the measured 395 e1RM → RPE 6.5–7, 25 reps.
 
 Reference: 305 × 6 × 4 read RPE 7 on wk 4 day 1. Same load, one more rep per set, four fewer
 sets — a fair step, and the RPE should land in the same neighbourhood.
 
-The caveat is what came three days before it. 325 × 5 × 3 at RPE 9.5 is 15 reps at a genuine
-5RM; that carries a fatigue tail. **If this session reads high, that's the tail, not a
-miscalibration** — hold 305 next week rather than concluding the number is wrong.
+This is deliberately light. Three days after a session that ended in a grinding 9.5, the volume
+slot's job is quality reps and position, not a test. **If it still reads 8+, that's the fatigue
+tail** — hold 305 into wk 6 rather than concluding the number is wrong.
 
 Whole-foot pressure, left side especially. Drift ends the set.
 

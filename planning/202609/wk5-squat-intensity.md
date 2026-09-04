@@ -2,11 +2,11 @@
 
 **TL;DR**
 
-- Back squat **325# × 3 × 3**, E4:00 — your own prescription, kept, and it's the sharpest call
-  in the program: same bar weight as the 9.5 session at a rep target that lands on RPE 8
+- Back squat **325# × 3 × 3**, E4:00 — your own prescription, kept: same bar weight as the
+  grinding session, at a rep target that lands ~RPE 7
 - Run ≥ 72h after the volume slot
 - Banded lateral walk 3 × 20 steps/direction + suitcase carry 70# × 4 × 50 ft/side
-- **This session sets wk 6.** All three triples ≤ RPE 8 → 325 × 3 × 5 next week
+- **This session sets wk 6.** All three triples ≤ RPE 7.5 → 345 × 3 × 4 next week
 
 ## Warm-up (~12 min)
 
@@ -18,14 +18,15 @@
 
 ## Back squat — 325# × 3 × 3, E4:00
 
-Run solo. 85.1% of the measured 382 e1RM → RPE 8 as a triple.
+Run solo. 82.3% of the measured 395 e1RM → ~RPE 7 as a triple.
 
-Same 325 that read **RPE 9.5 for five reps** on 9/3. Nothing about the bar weight was wrong that
-day — the rep target was. Two fewer reps moves the same load from a 5RM grind to a repeatable
-working triple, which is why this slot can now run three sets of it instead of surviving one.
+Same 325 that ground out to **RPE 9.5 on set 3** on 9/3 — sets 1–2 were 8–8.5, which is where the
+395 e1RM comes from. Nothing about the bar weight was wrong; the rep target and the third set were.
+Two fewer reps per set makes this a controlled working triple.
 
-Nine reps at 85% is not a small session. It should feel *controlled*, not easy. If a set reads
-9+, that's the answer for wk 6 and it's worth having.
+This should feel genuinely easy — that's the point of a re-entry session, and it's the cheap way to
+find out whether the fatigue from 9/3 has cleared. If 325 triples read 8+, the tail is still there
+and wk 6 waits.
 
 **Hesitation = bail.** 335 in May went two reps and shifted onto the forefoot. Same standard —
 drift ends the set, not the rep.
@@ -39,13 +40,13 @@ drift ends the set, not the rep.
 
 | this session | wk 6 intensity slot |
 |---|---|
-| all 3 triples ≤ RPE 8, no drift | **325 × 3 × 5** — hold load, add sets |
-| any triple at RPE 8.5–9 | **325 × 3 × 4** — one extra set only |
-| RPE 9.5, grind, or forefoot drift | **315 × 3 × 4** — back off; the 382 e1RM is optimistic |
+| all 3 triples ≤ RPE 7.5, no drift | **345 × 3 × 4** — the program's load, one set trimmed |
+| any triple at RPE 8–8.5 | **340 × 3 × 4** — small step back |
+| RPE 9+, grind, or forefoot drift | **330 × 3 × 4** — the 395 e1RM is optimistic; recheck |
 
 ## What NOT to do
 
-- No fourth set, no "one more at 335 since it moved." The 9/3 session already spent that.
+- No fourth set, no "one more at 345 since it moved." Wk 6 owns that load.
 - No singles. Singles belong to the doubles phase in November and to the attempt.
 
 ## Logging
