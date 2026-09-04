@@ -3,7 +3,7 @@
 **TL;DR**
 
 - Goal: **405# back squat**, attempt window early–mid Dec. Best banked: 390 × 1 (5/19, RPE 9.5)
-- Working **e1RM = 382#** — measured, not guessed: three logged RPEs agree within 9#
+- Working **e1RM = 395#** — read off the *first* set at 325 (RPE 8–8.5). The 9.5 was set 3, fatigue-limited, and doesn't estimate a max
 - Squat only. No press/DL/bench ladders this cycle; CrossFit is noise, never advances the ladder
 - 2 squat days/wk, ~72h apart: **Volume slot** (5s, 75–80%) + **Intensity slot** (5s→3s→2s, 85–95%)
 - 4 phases: consolidate (wk 5–6) → build 5s/3s (wk 7–12) → doubles (wk 13–15) → attempt
@@ -33,84 +33,77 @@ day 2. The ceiling arrived in a single session. From here the ladder moves in fi
 |---|---|---|---|
 | wk 3 d2 | 295 × 6 | 7 | 387# |
 | wk 4 d1 | 305 × 4 | 7 | 378# |
-| wk 4 d2 | 325 × 5 | **9.5** | 382# |
+| wk 4 d2 | 325 × 5, **set 1–2** | **8–8.5** | **394–401#** |
+| wk 4 d2 | 325 × 5, set 3 | 9.5 | 382# — fatigued, discard |
 
-Three independent readings inside a 9# band. **e1RM = 382#** and it is trustworthy — this is a
-better-supported number than the 390 tested single from May.
+**Working e1RM = 395#.** Estimate off the *fresh* set: set 3 of a session measures accumulated
+fatigue, not maximal strength, so the 9.5 is a within-session drop-off rather than a max reading.
+The RPE 7 entries pull lower (387, 378), but RPE is least reliable that far from failure —
+three-reps-in-reserve is a guess, half-a-rep is a fact. Weight the 8–8.5.
 
-Two things follow. First, 9/3 was not a normal training day: RPE 9.5 for five reps is a **5RM
-test**, and it was run for three sets. That's why the block felt like it spiked — it did.
-Second, the load was never the problem. 325 is an RPE 8 *triple* and an RPE 9.5 *set of five*.
-Same bar, different rep target, completely different session.
+What the *shape* says matters as much as the number: **top-end load is fine; fatigue resistance is
+the gap.** A set-1 RPE 8 that degrades to a grinding 9.5 by set 3 is a work-capacity signal, not a
+strength ceiling. That argues for accumulating quality volume at 80–87% — which is exactly what
+this cycle is built on, and it's the cheapest +10# of e1RM available before December.
 
-## The problem with the back half of the program
+Same-bar, different-target still holds: 325 is an RPE 7 triple and an RPE 8.5 set of five.
 
-Weeks 5 and 6 of the existing program are calibrated to two different athletes:
+## Checking the rest of the program
 
-| session | load × reps × sets | vs 382 e1RM | verdict |
+Weeks 5 and 6 of the existing program, checked against 395:
+
+| session | load × reps × sets | vs 395 e1RM | verdict |
 |---|---|---|---|
-| wk 5 d1 | 305 × 5 × 5 | 79.8% → RPE 7 | **good, run it** |
-| wk 5 d2 | 325 × 3 × 3 | 85.1% → RPE 8 | **good, run it** |
-| wk 6 d1 | 330 × 5 × 5 | 86.4% — a 5RM is 86.3% | **not available** |
-| wk 6 d2 | 345 × 3s | 90.3% — a 3RM is 90.7% | **not available** |
+| wk 5 d1 | 305 × 5 × 5 | 77.2% → RPE 6.5 | run it — light, but it follows a hard day |
+| wk 5 d2 | 325 × 3 × 3 | 82.3% → RPE 7 | run it — deliberate re-entry |
+| wk 6 d1 | 330 × 5 × 5 | 83.5% → RPE 9 | runnable, but 25 reps at RPE 9 |
+| wk 6 d2 | 345 × 3 × 5 | 87.3% → RPE 9 | runnable, but 15 reps at RPE 9 |
 
-Week 5 is calibrated to a ~380 max. Week 6 is calibrated to a **405** max:
-330 × 5 at RPE 8 needs a 407 1RM; 345 × 3 at RPE 8 needs 404.
+Week 5 is well-placed. **Week 6 is not impossible — it is a whole week at RPE 9, on both days.**
+The loads are close to right; the set counts are what make it punishing. Trim volume, keep the bar
+weight roughly where the program wants it.
 
 ### "But the program expects me to grow"
 
-Correct, and it should. A pre-written block prescribes future loads against a *projected* max —
-that's not the error. The error is the projected rate.
+Correct, and it should — a pre-written block prescribes against a *projected* max. With the e1RM
+read properly at 395, the program's projection is close to right and the earlier "not available"
+call was wrong.
 
-**330 × 5 × 5 at RPE 8 needs a 407 max. That is +25# on 382, in one week.**
+What's left is a volume problem, not a load problem. Week 6 as written runs **both** days at
+RPE 9, for 25 and 15 reps. One RPE-9 top set is training; a whole week of RPE-9 sets is how
+week 4 day 2 happened — and that session moved the e1RM by nothing while costing a fatigue tail.
 
-And the block's own RPE data says the max is currently flat:
-
-| | implied e1RM |
-|---|---|
-| wk 3 d2 — 295 × 6 @ RPE 7 | 387# |
-| wk 4 d1 — 305 × 4 @ RPE 7 | 378# |
-| wk 4 d2 — 325 × 5 @ RPE 9.5 | 382# |
-
-387 → 378 → 382 is flat inside noise. **The e1RM has not moved since week 3.** Loads kept
-climbing (295 → 305 → 325) while the ceiling stayed put — which is what re-acquisition looks
-like from the inside: the +90#/4wk wasn't growth, it was walking back up to a ceiling that was
-already there from May. By wk 3 you'd arrived, and wk 4 day 2 is what hitting it feels like.
-
-So the growth assumption isn't wrong in principle — it just hasn't started yet. Real growth
-begins now, from 382, and it runs at roughly **+2#/week**, not +25#.
-
-Fixed: wk 6 volume → **310 × 5 × 5**, wk 6 intensity → **325 × 3 × 5** (load held, sets added).
+Fixed by trimming sets, keeping the loads near the program's intent:
+- wk 6 volume → **320 × 5 × 5** (RPE 8, −10# on the program's 330)
+- wk 6 intensity → **345 × 3 × 4** (RPE 9 top end, one set cut from five)
 
 ## The ladder, with growth built in
 
-Projected at ~+2#/wk on the e1RM. Intensity slot = triples at ~85%, volume slot = fives at ~81%.
-Every load recomputed at the checkpoint against the *actual* logged RPE — these are projections,
-not promises.
+Projected at ~+1.5#/wk on the e1RM. Intensity slot = triples at 85–88%, volume slot = fives at
+~81%. Recomputed at each checkpoint against actual logged RPE — projections, not promises.
 
 | wk | proj. e1RM | intensity slot | volume slot |
 |---|---|---|---|
-| 5 | 382 | 325 × 3 × 3 | 305 × 5 × 5 |
-| 6 | 384 | 325 × 3 × 5 | 310 × 5 × 5 |
-| 7 | 386 | 330 × 3 × 4 | 310 × 5 × 5 |
-| 8 | 388 | 330 × 3 × 5 | 315 × 5 × 5 |
-| 9 | 390 | 335 × 3 × 4 | 315 × 5 × 5 |
-| 10 | 392 | 335 × 3 × 5 | 315 × 5 × 5 |
-| 11 | 395 | 340 × 3 × 4 | 320 × 5 × 5 |
-| 12 | 397 | 340 × 3 × 5 | 320 × 5 × 5 |
-| 13 | 399 | **doubles 370 × 2** | 320 × 5 × 3 |
-| 14 | 401 | **doubles 378 × 2** | 315 × 5 × 3 |
-| 15 | 403 | **doubles 385 × 2** | light |
-| 16 | ~405 | **attempt 365 / 385 / 405** | — |
+| 5 | 395 | 325 × 3 × 3 | 305 × 5 × 5 |
+| 6 | 397 | 345 × 3 × 4 | 320 × 5 × 5 |
+| 7 | 398 | 340 × 3 × 5 | 320 × 5 × 5 |
+| 8 | 400 | 345 × 3 × 5 | 325 × 5 × 5 |
+| 9 | 401 | 350 × 3 × 4 | 325 × 5 × 5 |
+| 10 | 403 | 350 × 3 × 5 | 330 × 5 × 5 |
+| 11 | 404 | 355 × 3 × 4 | 330 × 5 × 5 |
+| 12 | 406 | 355 × 3 × 5 | 335 × 5 × 4 |
+| 13 | 408 | **doubles 378 × 2** | 330 × 5 × 3 |
+| 14 | 409 | **doubles 385 × 2** | 320 × 5 × 3 |
+| 15 | 411 | **doubles 390 × 2** | light |
+| 16 | ~412 | **attempt 375 / 395 / 405** | — |
 
-That is +23# of e1RM across 13 weeks. It reaches 405 with **no slack** — a stalled month, an
-illness, or a hip flare and the December number is 395, not 405. Which is why 405 is the target
-and a PR is the goal: 395 beats the 390 and the cycle worked.
+**405 is comfortably live.** From 395 it needs only +10# of e1RM over 11 weeks — under +1#/wk
+clears it. At +1.5#/wk the projection lands near 412, which puts 405 inside the taper rather than
+at the edge of it, and leaves a fourth attempt on the table if the day goes well.
 
-Note what the ladder does *not* do: it never runs a set above RPE 8.5 before wk 13. The growth
-comes from accumulated quality reps at 85%, not from testing the ceiling every fortnight. The
-9/3 session is the cautionary example — an RPE 9.5 five-rep set bought one data point and a
-fatigue tail, and moved the e1RM zero.
+Note what the ladder does *not* do: outside the doubles phase it keeps sets at RPE 8–9, never
+9.5+. Week 4 day 2 is the cautionary case — the grinding third set bought no strength and cost a
+week of freshness. Stop the set when the bar slows, not when it fails.
 
 ## Phases
 
