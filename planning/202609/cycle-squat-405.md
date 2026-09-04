@@ -57,11 +57,60 @@ Weeks 5 and 6 of the existing program are calibrated to two different athletes:
 Week 5 is calibrated to a ~380 max. Week 6 is calibrated to a **405** max:
 330 × 5 at RPE 8 needs a 407 1RM; 345 × 3 at RPE 8 needs 404.
 
-**The program is written off the goal as though it were already banked.** That works while the
-loads are low enough that the error hides — which is exactly what the first four weeks were —
-and it breaks the moment the ladder reaches real intensity. Week 6 is where it breaks.
+### "But the program expects me to grow"
+
+Correct, and it should. A pre-written block prescribes future loads against a *projected* max —
+that's not the error. The error is the projected rate.
+
+**330 × 5 × 5 at RPE 8 needs a 407 max. That is +25# on 382, in one week.**
+
+And the block's own RPE data says the max is currently flat:
+
+| | implied e1RM |
+|---|---|
+| wk 3 d2 — 295 × 6 @ RPE 7 | 387# |
+| wk 4 d1 — 305 × 4 @ RPE 7 | 378# |
+| wk 4 d2 — 325 × 5 @ RPE 9.5 | 382# |
+
+387 → 378 → 382 is flat inside noise. **The e1RM has not moved since week 3.** Loads kept
+climbing (295 → 305 → 325) while the ceiling stayed put — which is what re-acquisition looks
+like from the inside: the +90#/4wk wasn't growth, it was walking back up to a ceiling that was
+already there from May. By wk 3 you'd arrived, and wk 4 day 2 is what hitting it feels like.
+
+So the growth assumption isn't wrong in principle — it just hasn't started yet. Real growth
+begins now, from 382, and it runs at roughly **+2#/week**, not +25#.
 
 Fixed: wk 6 volume → **310 × 5 × 5**, wk 6 intensity → **325 × 3 × 5** (load held, sets added).
+
+## The ladder, with growth built in
+
+Projected at ~+2#/wk on the e1RM. Intensity slot = triples at ~85%, volume slot = fives at ~81%.
+Every load recomputed at the checkpoint against the *actual* logged RPE — these are projections,
+not promises.
+
+| wk | proj. e1RM | intensity slot | volume slot |
+|---|---|---|---|
+| 5 | 382 | 325 × 3 × 3 | 305 × 5 × 5 |
+| 6 | 384 | 325 × 3 × 5 | 310 × 5 × 5 |
+| 7 | 386 | 330 × 3 × 4 | 310 × 5 × 5 |
+| 8 | 388 | 330 × 3 × 5 | 315 × 5 × 5 |
+| 9 | 390 | 335 × 3 × 4 | 315 × 5 × 5 |
+| 10 | 392 | 335 × 3 × 5 | 315 × 5 × 5 |
+| 11 | 395 | 340 × 3 × 4 | 320 × 5 × 5 |
+| 12 | 397 | 340 × 3 × 5 | 320 × 5 × 5 |
+| 13 | 399 | **doubles 370 × 2** | 320 × 5 × 3 |
+| 14 | 401 | **doubles 378 × 2** | 315 × 5 × 3 |
+| 15 | 403 | **doubles 385 × 2** | light |
+| 16 | ~405 | **attempt 365 / 385 / 405** | — |
+
+That is +23# of e1RM across 13 weeks. It reaches 405 with **no slack** — a stalled month, an
+illness, or a hip flare and the December number is 395, not 405. Which is why 405 is the target
+and a PR is the goal: 395 beats the 390 and the cycle worked.
+
+Note what the ladder does *not* do: it never runs a set above RPE 8.5 before wk 13. The growth
+comes from accumulated quality reps at 85%, not from testing the ceiling every fortnight. The
+9/3 session is the cautionary example — an RPE 9.5 five-rep set bought one data point and a
+fatigue tail, and moved the e1RM zero.
 
 ## Phases
 
