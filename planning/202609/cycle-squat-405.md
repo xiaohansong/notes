@@ -116,6 +116,43 @@ week of freshness. Stop the set when the bar slows, not when it fails.
 4. **Attempt (wk 16).** Openers ~365 / 385 / **405**. Target RPE 9–9.5 — a max attempt is not an
    RPE 8 lift ([[feedback_rpe_math]]).
 
+## What a block like this realistically returns
+
+Gains scale inversely with training age, and at **2.23× bodyweight (395 / 177#)** you sit on the
+intermediate/advanced boundary. That band is well past linear progression.
+
+| training age | typical squat gain |
+|---|---|
+| novice (0–1 yr) | 10–20#/**month**, linear |
+| intermediate (1–3 yr) | 5–10#/month |
+| **advanced (>2× BW)** | **10–25#/year** |
+
+Your own history sits right on that: the spring block ran 375 → **390 tested** over ~5 weeks
+(caveat — the 375 was a recorded number, not a fresh test the same week, so the real gain was
+probably smaller). Then 390 → 395 across 3.5 months that contained a 7.5-week layoff.
+
+**Realistic for this 13-week block: +10 to +20#.** 405 is the base case. 415 is a good block.
+425 would be exceptional and isn't what the plan is built for.
+
+What that does *not* mean is +10–20# every quarter. The +10 to 405 annualizes to ~12%/yr, which
+no advanced lifter sustains. Expect this block to land 405–415, then 2027 to move in single-digit
+annual increments unless something structural changes.
+
+### The levers, ranked by cost
+
+1. **Bodyweight — the cheapest 7#.** You're 177, down from a 182 peak, on no diet phase. Squat
+   scales roughly with BW^⅔, so a passive glide back to 182 is worth ≈ **+7#** — 70% of the gap
+   to 405 — for no training stress at all. Food is training substrate here; this is the highest
+   return per unit of effort in the whole cycle.
+2. **Uninterrupted weeks.** 13 clean weeks would be the longest unbroken squat block in the log.
+   The 7.5-week summer layoff cost more than any programming choice will gain back.
+3. **Fatigue resistance.** Identified 9/3: set 1 at RPE 8 → set 3 grinding at 9.5. That's
+   trainable on a scale of weeks, not months, and it's what the 80–87% volume work is for.
+4. **The left hip.** A structural limiter, and the one with the widest error bars — resolving it
+   could be worth more than everything above, or nothing. The hip block is the cheap bet on it.
+5. **Programming.** Real, but last. Good programming mostly protects the other four from being
+   squandered; it doesn't manufacture strength on its own.
+
 ## Standing rules
 
 - **Percentages come off the measured e1RM, never off the goal.** This is the single error that
