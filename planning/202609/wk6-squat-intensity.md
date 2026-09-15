@@ -2,12 +2,13 @@
 
 **TL;DR**
 
-- **Superseded 9/15: the program adjusted to 315 5x3 — run that.** It dropped the load itself
+- **Superseded 9/15: the program adjusted to 315 × 3 × 5 (five triples) — run that.** It dropped the load itself
   after 9/14's miss (330 × 5 × 5 → 3/4/3/3/2, RPE 9), which is the right reaction. The branch
   table below is kept for reference only. e1RM read is ~375–380, not 395
 - Ramp in kg with a heavy single so set 1 isn't the first time near weight:
   70 × 2, 110 × 2, 130 × 1, 140 × 1 → 143 (≈ 315#)
-- Log RPE per set — this session cross-checks 9/3's 325 × 5 @ 8 against 9/14's 330 × 3 @ 9
+- ~RPE 7 against a ~378 e1RM. **Log set-1 RPE** — it gates wk 7's 335 × 3 × 5
+  (set 1 ≤ 7 → run 335 as written; 8+ → 335 × 3 × 4 or 325 × 3 × 5)
 - Your program says 345 for five sets of 3. Run **345# × 3 × 4** — same load, one set cut
 - 345 × 3 is 87.3% of the measured e1RM → RPE 9. Four sets of that is a real top-end session;
   five is the week that buries you
