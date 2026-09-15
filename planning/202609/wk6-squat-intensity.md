@@ -7,6 +7,10 @@
   table below is kept for reference only. e1RM read is ~375–380, not 395
 - Ramp in kg with a heavy single so set 1 isn't the first time near weight:
   70 × 2, 110 × 2, 130 × 1, 140 × 1 → 143 (≈ 315#)
+- **Set safety arms first, and practice bailing onto them.** Height test with empty bar: at normal
+  depth the bar clears the arms; sink 1–2" lower and it lands on them. Then bail practice
+  in the ramp: 1 bail at 70 kg, 1 at 110 kg — descend, sink, set the bar on the arms, slide out.
+  Hands stay on the bar until it's resting
 - ~RPE 7 against a ~378 e1RM. **Log set-1 RPE** — it gates wk 7's 335 × 3 × 5
   (set 1 ≤ 7 → run 335 as written; 8+ → 335 × 3 × 4 or 325 × 3 × 5)
 - Your program says 345 for five sets of 3. Run **345# × 3 × 4** — same load, one set cut
